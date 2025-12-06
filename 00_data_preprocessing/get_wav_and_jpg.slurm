@@ -1,7 +1,7 @@
 #!/bin/bash
-#SBATCH --job-name=get_wav_and_jpg
-#SBATCH --output=get_wav_and_jpg.%j.log
-#SBATCH --error=get_wav_and_jpg.%j.log
+#SBATCH --job-name=get_wav_and_jpg_1
+#SBATCH --output=get_wav_and_jpg_1.%j.log
+#SBATCH --error=get_wav_and_jpg_1.%j.log
 #SBATCH --partition=development
 #SBATCH --nodes=1
 #SBATCH --ntasks=1

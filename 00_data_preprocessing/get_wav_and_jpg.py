@@ -22,7 +22,7 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 
 
 # Paths
-ROOT = os.path.expandvars("$SCRATCH/VoxCeleb2/vox2_mp4_1_extracted/dev")
+ROOT = os.path.expandvars("$SCRATCH/VoxCeleb2/Extracted/vox2_mp4_1")
 MP4_DIR = Path(ROOT) / "mp4"
 WAV_DIR = Path(ROOT) / "wav"
 JPG_DIR = Path(ROOT) / "jpg"
