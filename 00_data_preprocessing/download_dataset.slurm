@@ -30,8 +30,9 @@ FILES=(
 # Download files in parallel
 printf "%s\n" "${FILES[@]}" | xargs -n 1 -P 7 -I {} bash -c '
 FILE_NAME=$(basename "{}" | cut -d"?" -f1)
+LOG_FILE="'"$DEST_DIR"'/$FILE_NAME.log"
 echo "$(date +\"%H:%M:%S\") - Downloading $FILE_NAME..."
-wget -c --content-disposition "{}" -P "'"$DEST_DIR"'" --tries=5 --timeout=30
+wget -c --content-disposition "{}" -P "'"$DEST_DIR"'" --tries=5 --timeout=30 &> "$LOG_FILE"
 '
 
 echo "Job finished at $(date)"
