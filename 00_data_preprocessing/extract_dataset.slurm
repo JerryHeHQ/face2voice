@@ -5,9 +5,9 @@
 #SBATCH --partition=development
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --cpus-per-task=16
-#SBATCH --mem=32G
-#SBATCH --time=08:00:00
+#SBATCH --cpus-per-task=56
+#SBATCH --mem=64G
+#SBATCH --time=02:00:00
 
 echo "Job started at $(date)"
 echo "Running on node $(hostname)"
@@ -23,14 +23,35 @@ SRC_DIR="$WORK/VoxCeleb2/Raw"
 DEST_DIR="$WORK/VoxCeleb2/Extracted"
 mkdir -p "$DEST_DIR"
 
-# Loop through all zip files in the source directory
-for ZIP_FILE in "$SRC_DIR"/*.zip; do
-    FILE_NAME=$(basename "$ZIP_FILE" .zip)
-    EXTRACT_DIR="$DEST_DIR/$FILE_NAME"
-    mkdir -p "$EXTRACT_DIR"
-    echo "$(date +'%Y-%m-%d %H:%M:%S') - Extracting $ZIP_FILE to $EXTRACT_DIR..."
-    7z x "$ZIP_FILE" -o"$EXTRACT_DIR" -mmt=16 -bb1
-done
+# Number of parallel extractions
+PARALLEL_JOBS=7
+CPUS_PER_JOB=$(( SLURM_CPUS_PER_TASK / PARALLEL_JOBS ))
+
+echo "Running up to $PARALLEL_JOBS extractions in parallel, $CPUS_PER_JOB threads per extraction"
+
+# Export variables so xargs/batch processes can see them
+export DEST_DIR
+
+# Find all zip files and run extraction in parallel
+find "$SRC_DIR" -maxdepth 1 -name '*.zip' | xargs -n 1 -P $PARALLEL_JOBS -I {} bash -c '
+ZIP_FILE="{}"
+FILE_NAME=$(basename "$ZIP_FILE" .zip)
+EXTRACT_DIR="$DEST_DIR/$FILE_NAME"
+mkdir -p "$EXTRACT_DIR"
+LOG_FILE="$EXTRACT_DIR/extraction.log"
+
+echo "-----------------------------------------------------"
+echo "$(date +'%Y-%m-%d %H:%M:%S') - Starting extraction of $ZIP_FILE"
+echo "Extraction log: $LOG_FILE"
+echo "-----------------------------------------------------"
+
+if 7z x "$ZIP_FILE" -o"$EXTRACT_DIR" -mmt='"$CPUS_PER_JOB"' -bb1 &> "$LOG_FILE"; then
+    echo "$(date +'%Y-%m-%d %H:%M:%S') - Successfully extracted $ZIP_FILE"
+else
+    echo "$(date +'%Y-%m-%d %H:%M:%S') - ERROR extracting $ZIP_FILE. See $LOG_FILE for details"
+fi
+
+echo "-----------------------------------------------------"
+'
 
 echo "Job finished at $(date)"
-
