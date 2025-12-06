@@ -17,10 +17,10 @@ source "$WORK/conda/miniconda3/etc/profile.d/conda.sh"
 conda activate unzip-env
 
 # Directory containing the downloaded zip files
-SRC_DIR="$WORK/VoxCeleb2/Raw"
+SRC_DIR="$SCRATCH/VoxCeleb2/Raw"
 
 # Directory to extract to
-DEST_DIR="$WORK/VoxCeleb2/Extracted"
+DEST_DIR="$SCRATCH/VoxCeleb2/Extracted"
 mkdir -p "$DEST_DIR"
 
 # Number of parallel extractions

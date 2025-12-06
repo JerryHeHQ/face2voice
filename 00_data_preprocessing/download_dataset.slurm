@@ -13,7 +13,7 @@ echo "Job started at $(date)"
 echo "Running on node $(hostname)"
 
 # Directory to save downloads
-DEST_DIR="$WORK/VoxCeleb2/Raw"
+DEST_DIR="$SCRATCH/VoxCeleb2/Raw"
 mkdir -p "$DEST_DIR"
 
 # List of file URLs
