@@ -13,7 +13,7 @@ echo "Job started at $(date)"
 echo "Running on node $(hostname)"
 
 # Load conda
-source "$WORK/ls6/conda/miniconda3/etc/profile.d/conda.sh"
+source "$WORK/conda/miniconda3/etc/profile.d/conda.sh"
 conda activate unzip-env
 
 # Directory containing the downloaded zip files
@@ -33,25 +33,25 @@ echo "Running up to $PARALLEL_JOBS extractions in parallel, $CPUS_PER_JOB thread
 export DEST_DIR
 
 # Find all zip files and run extraction in parallel
-find "$SRC_DIR" -maxdepth 1 -name '*.zip' | xargs -n 1 -P $PARALLEL_JOBS -I {} bash -c '
-ZIP_FILE="{}"
-FILE_NAME=$(basename "$ZIP_FILE" .zip)
-EXTRACT_DIR="$DEST_DIR/$FILE_NAME"
-mkdir -p "$EXTRACT_DIR"
-LOG_FILE="$EXTRACT_DIR/extraction.log"
+find "$SRC_DIR" -maxdepth 1 -name '*.zip' | xargs -n 1 -P $PARALLEL_JOBS -I {} bash -c "
+ZIP_FILE='{}'
+FILE_NAME=\$(basename \"\$ZIP_FILE\" .zip)
+EXTRACT_DIR=\"$DEST_DIR/\$FILE_NAME\"
+mkdir -p \"\$EXTRACT_DIR\"
+LOG_FILE=\"\$EXTRACT_DIR/extraction.log\"
 
-echo "-----------------------------------------------------"
-echo "$(date +'%Y-%m-%d %H:%M:%S') - Starting extraction of $ZIP_FILE"
-echo "Extraction log: $LOG_FILE"
-echo "-----------------------------------------------------"
+echo '-----------------------------------------------------'
+echo \"\$(date +'%Y-%m-%d %H:%M:%S') - Starting extraction of \$ZIP_FILE\"
+echo \"Extraction log: \$LOG_FILE\"
+echo '-----------------------------------------------------'
 
-if 7z x "$ZIP_FILE" -o"$EXTRACT_DIR" -mmt='"$CPUS_PER_JOB"' -bb1 &> "$LOG_FILE"; then
-    echo "$(date +'%Y-%m-%d %H:%M:%S') - Successfully extracted $ZIP_FILE"
+if 7z x \"\$ZIP_FILE\" -o\"\$EXTRACT_DIR\" -mmt=$CPUS_PER_JOB -bb1 &> \"\$LOG_FILE\"; then
+    echo \"\$(date +'%Y-%m-%d %H:%M:%S') - Successfully extracted \$ZIP_FILE\"
 else
-    echo "$(date +'%Y-%m-%d %H:%M:%S') - ERROR extracting $ZIP_FILE. See $LOG_FILE for details"
+    echo \"\$(date +'%Y-%m-%d %H:%M:%S') - ERROR extracting \$ZIP_FILE. See \$LOG_FILE for details\"
 fi
 
-echo "-----------------------------------------------------"
-'
+echo '-----------------------------------------------------'
+"
 
 echo "Job finished at $(date)"
