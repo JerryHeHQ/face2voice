@@ -50,9 +50,9 @@ cn2an==0.5.22
 jieba==0.42.1
 gradio==3.48.0
 langid==1.1.6
-Install them with:
 ```
 
+Install them with:
 ```bash
 cd OpenVoice
 pip install -r requirements.txt
