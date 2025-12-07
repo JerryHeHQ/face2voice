@@ -24,12 +24,11 @@ sys.path.append(os.path.expandvars("$SCRATCH/face2voice/OpenVoice"))
 import csv
 from pathlib import Path
 import torch
-import torchaudio
 from openvoice import se_extractor
 from openvoice.api import ToneColorConverter
 from tqdm import tqdm
-import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
+import pandas as pd
 
 
 # In[ ]:
@@ -40,7 +39,9 @@ OPENVOICE_DIR = Path(os.path.expandvars("$SCRATCH/face2voice/OpenVoice"))
 ROOT = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Extracted/vox2_mp4_1"))
 CSV_PATH = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_1/wav_metadata_1.csv"))
 EMB_PATH = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_1/wav_embeddings_1.pt"))
-SAVE_CHUNK = 512 
+CHUNK_DIR = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_1/chunks"))
+CHUNK_DIR.mkdir(parents=True, exist_ok=True)
+SAVE_CHUNK = 512
 
 
 # In[ ]:
@@ -105,70 +106,53 @@ print(f"Found {total} wav files.")
 # In[ ]:
 
 
-# Load existing embeddings in case resuming
-if EMB_PATH.exists():
-    all_embeddings = torch.load(EMB_PATH)
-    print(f"[Resume] Loaded existing embedding tensor: {all_embeddings.shape}")
-else:
-    all_embeddings = torch.zeros((0, 256), dtype=torch.float32)
+# Background thread for writing CSV & embeddings
+executor = ThreadPoolExecutor(max_workers=8)
+def async_save(chunk_id, embeddings, rows):
+    """Save embeddings + CSV rows in a background thread."""
+    torch.save(embeddings, CHUNK_DIR / f"emb_{chunk_id:06d}.pt")
+    with open(CSV_PATH, "a", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerows(rows)
 
 
 # In[ ]:
 
 
-# Helper function
-def process_file(idx, file_path):
-    """Process a single WAV file: extract embedding and build CSV row."""
-    try:
-        with torch.no_grad():
-            se, _ = se_extractor.get_se(str(file_path), tone_color_converter, vad=True)
-            emb = se.squeeze(-1)
-        parts = file_path.parts
-        row = [idx, parts[-3], parts[-2], int(file_path.stem), str(file_path)]
-        return idx, emb, row, None
-    except Exception as e:
-        return idx, None, None, e
-
-
-# In[ ]:
-
-
-# Main loop
+# Main Loop
 cache_embeddings = []
 cache_rows = []
+existing_chunks = sorted(CHUNK_DIR.glob("*.pt"))
+chunk_id = len(existing_chunks)
 next_index = start_index
 skip_count = 0
 
-MAX_THREADS = 16
-with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-    # Submit all files
-    futures = [executor.submit(process_file, idx, fp) for idx, fp in enumerate(wav_files[start_index:], start_index)]
+for file_path in tqdm(wav_files[start_index:], desc="Extracting"):
+    try:
+        with torch.no_grad():
+            se, _ = se_extractor.get_se(str(file_path), tone_color_converter, vad=True)
+            emb = se.squeeze(-1).cpu() 
+    except Exception as e:
+        skip_count += 1
+        print(f"[Error] Skipped {file_path}: {e}")
+        continue
 
-    # Process results in order of submission to preserve wav_files order
-    for future in tqdm(futures, desc="Processing WAVs", total=len(futures)):
-        idx, emb, row, err = future.result()
-        if err:
-            skip_count += 1
-            print(f"[Error] Skipped {idx}: {err}")
-            continue
+    # Store
+    cache_embeddings.append(emb)
+    parts = file_path.parts
+    cache_rows.append([next_index, parts[-3], parts[-2], int(file_path.stem), str(file_path)])
+    next_index += 1
 
-        cache_embeddings.append(emb)
-        cache_rows.append(row)
-        next_index += 1
+    # Save chunk
+    if len(cache_embeddings) >= SAVE_CHUNK:
+        embeddings_tensor = torch.stack(cache_embeddings)
 
-        # Save in batches
-        if len(cache_embeddings) >= SAVE_CHUNK:
-            # Concatenate embeddings and move to CPU
-            chunk_tensor = torch.cat(cache_embeddings, dim=0).cpu()
-            all_embeddings = torch.cat([all_embeddings, chunk_tensor], dim=0)
-            torch.save(all_embeddings, EMB_PATH)
-            cache_embeddings = []
+        # Save asynchronously
+        executor.submit(async_save, chunk_id, embeddings_tensor, cache_rows)
 
-            # Write CSV rows in batch
-            with open(CSV_PATH, "a", newline="") as f:
-                writer = csv.writer(f)
-                writer.writerows(cache_rows)
-            cache_rows = []
+        chunk_id += 1
+        cache_embeddings = []
+        cache_rows = []
 
 
 # In[ ]:
@@ -176,15 +160,24 @@ with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
 
 # Save remaining embeddings & CSV rows
 if len(cache_embeddings) > 0:
-    chunk_tensor = torch.cat(cache_embeddings, dim=0).cpu()
-    all_embeddings = torch.cat([all_embeddings, chunk_tensor], dim=0)
-    torch.save(all_embeddings, EMB_PATH)
-
-    with open(CSV_PATH, "a", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerows(cache_rows)
-
+    embeddings_tensor = torch.stack(cache_embeddings)
+    executor.submit(async_save, chunk_id, embeddings_tensor, cache_rows)
+    
+executor.shutdown(wait=True)
 print(f"[Info] Total skipped embeddings: {skip_count}")
+
+
+# In[ ]:
+
+
+# Combine chunks into final embeddings file
+chunks = []
+for f in sorted(CHUNK_DIR.glob("*.pt")):
+    chunks.append(torch.load(f))
+
+all_embeddings = torch.cat(chunks, dim=0)
+torch.save(all_embeddings, EMB_PATH)
+print(f"Saved combined embeddings to {EMB_PATH}")
 
 
 # In[ ]:
