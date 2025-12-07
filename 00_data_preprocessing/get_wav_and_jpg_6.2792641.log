@@ -1,0 +1,3501 @@
+Job started at Sat Dec  6 22:26:02 CST 2025
+Running on node c308-005.ls6.tacc.utexas.edu
+Job ID: 2792641
+Starting Python script...
+358 speakers found.
+Processing speaker 0/358: id07074
+[id07074] Processing 177 files with 64 workers...
+[id07074] Completed 1/177
+[id07074] Completed 50/177
+[id07074] Completed 100/177
+[id07074] Completed 150/177
+DONE processing speaker id07074.
+Processing speaker 1/358: id02562
+[id02562] Processing 102 files with 64 workers...
+[id02562] Completed 1/102
+[id02562] Completed 50/102
+[id02562] Completed 100/102
+DONE processing speaker id02562.
+Processing speaker 2/358: id06256
+[id06256] Processing 21 files with 64 workers...
+[id06256] Completed 1/21
+DONE processing speaker id06256.
+Processing speaker 3/358: id09210
+[id09210] Processing 500 files with 64 workers...
+[id09210] Completed 1/500
+[id09210] Completed 50/500
+[id09210] Completed 100/500
+[id09210] Completed 150/500
+[id09210] Completed 200/500
+[id09210] Completed 250/500
+[id09210] Completed 300/500
+[id09210] Completed 350/500
+[id09210] Completed 400/500
+[id09210] Completed 450/500
+[id09210] Completed 500/500
+DONE processing speaker id09210.
+Processing speaker 4/358: id01457
+[id01457] Processing 413 files with 64 workers...
+[id01457] Completed 1/413
+[id01457] Completed 50/413
+[id01457] Completed 100/413
+[id01457] Completed 150/413
+[id01457] Completed 200/413
+[id01457] Completed 250/413
+[id01457] Completed 300/413
+[id01457] Completed 350/413
+[id01457] Completed 400/413
+DONE processing speaker id01457.
+Processing speaker 5/358: id06687
+[id06687] Processing 25 files with 64 workers...
+[id06687] Completed 1/25
+DONE processing speaker id06687.
+Processing speaker 6/358: id00027
+[id00027] Processing 35 files with 64 workers...
+[id00027] Completed 1/35
+DONE processing speaker id00027.
+Processing speaker 7/358: id02254
+[id02254] Processing 345 files with 64 workers...
+[id02254] Completed 1/345
+[id02254] Completed 50/345
+[id02254] Completed 100/345
+[id02254] Completed 150/345
+[id02254] Completed 200/345
+[id02254] Completed 250/345
+[id02254] Completed 300/345
+DONE processing speaker id02254.
+Processing speaker 8/358: id03987
+[id03987] Processing 150 files with 64 workers...
+[id03987] Completed 1/150
+[id03987] Completed 50/150
+[id03987] Completed 100/150
+[id03987] Completed 150/150
+DONE processing speaker id03987.
+Processing speaker 9/358: id03238
+[id03238] Processing 21 files with 64 workers...
+[id03238] Completed 1/21
+DONE processing speaker id03238.
+Processing speaker 10/358: id09171
+[id09171] Processing 500 files with 64 workers...
+[id09171] Completed 1/500
+[id09171] Completed 50/500
+[id09171] Completed 100/500
+[id09171] Completed 150/500
+[id09171] Completed 200/500
+[id09171] Completed 250/500
+[id09171] Completed 300/500
+[id09171] Completed 350/500
+[id09171] Completed 400/500
+[id09171] Completed 450/500
+[id09171] Completed 500/500
+DONE processing speaker id09171.
+Processing speaker 11/358: id03435
+[id03435] Processing 236 files with 64 workers...
+[id03435] Completed 1/236
+[id03435] Completed 50/236
+[id03435] Completed 100/236
+[id03435] Completed 150/236
+[id03435] Completed 200/236
+DONE processing speaker id03435.
+Processing speaker 12/358: id07978
+[id07978] Processing 173 files with 64 workers...
+[id07978] Completed 1/173
+[id07978] Completed 50/173
+[id07978] Completed 100/173
+[id07978] Completed 150/173
+DONE processing speaker id07978.
+Processing speaker 13/358: id01409
+[id01409] Processing 70 files with 64 workers...
+[id01409] Completed 1/70
+[id01409] Completed 50/70
+DONE processing speaker id01409.
+Processing speaker 14/358: id08802
+[id08802] Processing 500 files with 64 workers...
+[id08802] Completed 1/500
+[id08802] Completed 50/500
+[id08802] Completed 100/500
+[id08802] Completed 150/500
+[id08802] Completed 200/500
+[id08802] Completed 250/500
+[id08802] Completed 300/500
+[id08802] Completed 350/500
+[id08802] Completed 400/500
+[id08802] Completed 450/500
+[id08802] Completed 500/500
+DONE processing speaker id08802.
+Processing speaker 15/358: id03773
+[id03773] Processing 84 files with 64 workers...
+[id03773] Completed 1/84
+[id03773] Completed 50/84
+DONE processing speaker id03773.
+Processing speaker 16/358: id00463
+[id00463] Processing 61 files with 64 workers...
+[id00463] Completed 1/61
+[id00463] Completed 50/61
+DONE processing speaker id00463.
+Processing speaker 17/358: id04178
+[id04178] Processing 67 files with 64 workers...
+[id04178] Completed 1/67
+[id04178] Completed 50/67
+DONE processing speaker id04178.
+Processing speaker 18/358: id01654
+[id01654] Processing 91 files with 64 workers...
+[id01654] Completed 1/91
+[id01654] Completed 50/91
+DONE processing speaker id01654.
+Processing speaker 19/358: id06217
+[id06217] Processing 176 files with 64 workers...
+[id06217] Completed 1/176
+[id06217] Completed 50/176
+[id06217] Completed 100/176
+[id06217] Completed 150/176
+DONE processing speaker id06217.
+Processing speaker 20/358: id05123
+[id05123] Processing 75 files with 64 workers...
+[id05123] Completed 1/75
+[id05123] Completed 50/75
+DONE processing speaker id05123.
+Processing speaker 21/358: id05231
+[id05231] Processing 166 files with 64 workers...
+[id05231] Completed 1/166
+[id05231] Completed 50/166
+[id05231] Completed 100/166
+[id05231] Completed 150/166
+DONE processing speaker id05231.
+Processing speaker 22/358: id04526
+[id04526] Processing 500 files with 64 workers...
+[id04526] Completed 1/500
+[id04526] Completed 50/500
+[id04526] Completed 100/500
+[id04526] Completed 150/500
+[id04526] Completed 200/500
+[id04526] Completed 250/500
+[id04526] Completed 300/500
+[id04526] Completed 350/500
+[id04526] Completed 400/500
+[id04526] Completed 450/500
+[id04526] Completed 500/500
+DONE processing speaker id04526.
+Processing speaker 23/358: id04238
+[id04238] Processing 150 files with 64 workers...
+[id04238] Completed 1/150
+[id04238] Completed 50/150
+[id04238] Completed 100/150
+[id04238] Completed 150/150
+DONE processing speaker id04238.
+Processing speaker 24/358: id09214
+[id09214] Processing 158 files with 64 workers...
+[id09214] Completed 1/158
+[id09214] Completed 50/158
+[id09214] Completed 100/158
+[id09214] Completed 150/158
+DONE processing speaker id09214.
+Processing speaker 25/358: id02390
+[id02390] Processing 25 files with 64 workers...
+[id02390] Completed 1/25
+DONE processing speaker id02390.
+Processing speaker 26/358: id02665
+[id02665] Processing 47 files with 64 workers...
+[id02665] Completed 1/47
+DONE processing speaker id02665.
+Processing speaker 27/358: id05994
+[id05994] Processing 298 files with 64 workers...
+[id05994] Completed 1/298
+[id05994] Completed 50/298
+[id05994] Completed 100/298
+[id05994] Completed 150/298
+[id05994] Completed 200/298
+[id05994] Completed 250/298
+DONE processing speaker id05994.
+Processing speaker 28/358: id00183
+[id00183] Processing 21 files with 64 workers...
+[id00183] Completed 1/21
+DONE processing speaker id00183.
+Processing speaker 29/358: id06976
+[id06976] Processing 83 files with 64 workers...
+[id06976] Completed 1/83
+[id06976] Completed 50/83
+DONE processing speaker id06976.
+Processing speaker 30/358: id00076
+[id00076] Processing 385 files with 64 workers...
+[id00076] Completed 1/385
+[id00076] Completed 50/385
+[id00076] Completed 100/385
+[id00076] Completed 150/385
+[id00076] Completed 200/385
+[id00076] Completed 250/385
+[id00076] Completed 300/385
+[id00076] Completed 350/385
+DONE processing speaker id00076.
+Processing speaker 31/358: id08047
+[id08047] Processing 411 files with 64 workers...
+[id08047] Completed 1/411
+[id08047] Completed 50/411
+[id08047] Completed 100/411
+[id08047] Completed 150/411
+[id08047] Completed 200/411
+[id08047] Completed 250/411
+[id08047] Completed 300/411
+[id08047] Completed 350/411
+[id08047] Completed 400/411
+DONE processing speaker id08047.
+Processing speaker 32/358: id01829
+[id01829] Processing 53 files with 64 workers...
+[id01829] Completed 1/53
+[id01829] Completed 50/53
+DONE processing speaker id01829.
+Processing speaker 33/358: id04710
+[id04710] Processing 138 files with 64 workers...
+[id04710] Completed 1/138
+[id04710] Completed 50/138
+[id04710] Completed 100/138
+DONE processing speaker id04710.
+Processing speaker 34/358: id06013
+[id06013] Processing 358 files with 64 workers...
+[id06013] Completed 1/358
+[id06013] Completed 50/358
+[id06013] Completed 100/358
+[id06013] Completed 150/358
+[id06013] Completed 200/358
+[id06013] Completed 250/358
+[id06013] Completed 300/358
+[id06013] Completed 350/358
+DONE processing speaker id06013.
+Processing speaker 35/358: id03706
+[id03706] Processing 500 files with 64 workers...
+[id03706] Completed 1/500
+[id03706] Completed 50/500
+[id03706] Completed 100/500
+[id03706] Completed 150/500
+[id03706] Completed 200/500
+[id03706] Completed 250/500
+[id03706] Completed 300/500
+[id03706] Completed 350/500
+[id03706] Completed 400/500
+[id03706] Completed 450/500
+[id03706] Completed 500/500
+DONE processing speaker id03706.
+Processing speaker 36/358: id05067
+[id05067] Processing 23 files with 64 workers...
+[id05067] Completed 1/23
+DONE processing speaker id05067.
+Processing speaker 37/358: id08138
+[id08138] Processing 136 files with 64 workers...
+[id08138] Completed 1/136
+[id08138] Completed 50/136
+[id08138] Completed 100/136
+DONE processing speaker id08138.
+Processing speaker 38/358: id08806
+[id08806] Processing 101 files with 64 workers...
+[id08806] Completed 1/101
+[id08806] Completed 50/101
+[id08806] Completed 100/101
+DONE processing speaker id08806.
+Processing speaker 39/358: id03133
+[id03133] Processing 201 files with 64 workers...
+[id03133] Completed 1/201
+[id03133] Completed 50/201
+[id03133] Completed 100/201
+[id03133] Completed 150/201
+[id03133] Completed 200/201
+DONE processing speaker id03133.
+Processing speaker 40/358: id06440
+[id06440] Processing 26 files with 64 workers...
+[id06440] Completed 1/26
+DONE processing speaker id06440.
+Processing speaker 41/358: id00066
+[id00066] Processing 94 files with 64 workers...
+[id00066] Completed 1/94
+[id00066] Completed 50/94
+DONE processing speaker id00066.
+Processing speaker 42/358: id02986
+[id02986] Processing 161 files with 64 workers...
+[id02986] Completed 1/161
+[id02986] Completed 50/161
+[id02986] Completed 100/161
+[id02986] Completed 150/161
+DONE processing speaker id02986.
+Processing speaker 43/358: id00611
+[id00611] Processing 331 files with 64 workers...
+[id00611] Completed 1/331
+[id00611] Completed 50/331
+[id00611] Completed 100/331
+[id00611] Completed 150/331
+[id00611] Completed 200/331
+[id00611] Completed 250/331
+[id00611] Completed 300/331
+DONE processing speaker id00611.
+Processing speaker 44/358: id04873
+[id04873] Processing 436 files with 64 workers...
+[id04873] Completed 1/436
+[id04873] Completed 50/436
+[id04873] Completed 100/436
+[id04873] Completed 150/436
+[id04873] Completed 200/436
+[id04873] Completed 250/436
+[id04873] Completed 300/436
+[id04873] Completed 350/436
+[id04873] Completed 400/436
+DONE processing speaker id04873.
+Processing speaker 45/358: id05990
+[id05990] Processing 274 files with 64 workers...
+[id05990] Completed 1/274
+[id05990] Completed 50/274
+[id05990] Completed 100/274
+[id05990] Completed 150/274
+[id05990] Completed 200/274
+[id05990] Completed 250/274
+DONE processing speaker id05990.
+Processing speaker 46/358: id08253
+[id08253] Processing 24 files with 64 workers...
+[id08253] Completed 1/24
+DONE processing speaker id08253.
+Processing speaker 47/358: id08674
+[id08674] Processing 312 files with 64 workers...
+[id08674] Completed 1/312
+[id08674] Completed 50/312
+[id08674] Completed 100/312
+[id08674] Completed 150/312
+[id08674] Completed 200/312
+[id08674] Completed 250/312
+[id08674] Completed 300/312
+DONE processing speaker id08674.
+Processing speaker 48/358: id00561
+[id00561] Processing 44 files with 64 workers...
+[id00561] Completed 1/44
+DONE processing speaker id00561.
+Processing speaker 49/358: id04038
+[id04038] Processing 39 files with 64 workers...
+[id04038] Completed 1/39
+DONE processing speaker id04038.
+Processing speaker 50/358: id05019
+[id05019] Processing 276 files with 64 workers...
+[id05019] Completed 1/276
+[id05019] Completed 50/276
+[id05019] Completed 100/276
+[id05019] Completed 150/276
+[id05019] Completed 200/276
+[id05019] Completed 250/276
+DONE processing speaker id05019.
+Processing speaker 51/358: id07303
+[id07303] Processing 177 files with 64 workers...
+[id07303] Completed 1/177
+[id07303] Completed 50/177
+[id07303] Completed 100/177
+[id07303] Completed 150/177
+DONE processing speaker id07303.
+Processing speaker 52/358: id03221
+[id03221] Processing 106 files with 64 workers...
+[id03221] Completed 1/106
+[id03221] Completed 50/106
+[id03221] Completed 100/106
+DONE processing speaker id03221.
+Processing speaker 53/358: id07089
+[id07089] Processing 163 files with 64 workers...
+[id07089] Completed 1/163
+[id07089] Completed 50/163
+[id07089] Completed 100/163
+[id07089] Completed 150/163
+DONE processing speaker id07089.
+Processing speaker 54/358: id09005
+[id09005] Processing 238 files with 64 workers...
+[id09005] Completed 1/238
+[id09005] Completed 50/238
+[id09005] Completed 100/238
+[id09005] Completed 150/238
+[id09005] Completed 200/238
+DONE processing speaker id09005.
+Processing speaker 55/358: id04927
+[id04927] Processing 351 files with 64 workers...
+[id04927] Completed 1/351
+[id04927] Completed 50/351
+[id04927] Completed 100/351
+[id04927] Completed 150/351
+[id04927] Completed 200/351
+[id04927] Completed 250/351
+[id04927] Completed 300/351
+[id04927] Completed 350/351
+DONE processing speaker id04927.
+Processing speaker 56/358: id00042
+[id00042] Processing 81 files with 64 workers...
+[id00042] Completed 1/81
+[id00042] Completed 50/81
+DONE processing speaker id00042.
+Processing speaker 57/358: id02863
+[id02863] Processing 28 files with 64 workers...
+[id02863] Completed 1/28
+DONE processing speaker id02863.
+Processing speaker 58/358: id09190
+[id09190] Processing 154 files with 64 workers...
+[id09190] Completed 1/154
+[id09190] Completed 50/154
+[id09190] Completed 100/154
+[id09190] Completed 150/154
+DONE processing speaker id09190.
+Processing speaker 59/358: id01939
+[id01939] Processing 74 files with 64 workers...
+[id01939] Completed 1/74
+[id01939] Completed 50/74
+DONE processing speaker id01939.
+Processing speaker 60/358: id09217
+[id09217] Processing 27 files with 64 workers...
+[id09217] Completed 1/27
+DONE processing speaker id09217.
+Processing speaker 61/358: id03373
+[id03373] Processing 124 files with 64 workers...
+[id03373] Completed 1/124
+[id03373] Completed 50/124
+[id03373] Completed 100/124
+DONE processing speaker id03373.
+Processing speaker 62/358: id02584
+[id02584] Processing 46 files with 64 workers...
+[id02584] Completed 1/46
+DONE processing speaker id02584.
+Processing speaker 63/358: id05516
+[id05516] Processing 38 files with 64 workers...
+[id05516] Completed 1/38
+DONE processing speaker id05516.
+Processing speaker 64/358: id03922
+[id03922] Processing 138 files with 64 workers...
+[id03922] Completed 1/138
+[id03922] Completed 50/138
+[id03922] Completed 100/138
+DONE processing speaker id03922.
+Processing speaker 65/358: id05989
+[id05989] Processing 492 files with 64 workers...
+[id05989] Completed 1/492
+[id05989] Completed 50/492
+[id05989] Completed 100/492
+[id05989] Completed 150/492
+[id05989] Completed 200/492
+[id05989] Completed 250/492
+[id05989] Completed 300/492
+[id05989] Completed 350/492
+[id05989] Completed 400/492
+[id05989] Completed 450/492
+DONE processing speaker id05989.
+Processing speaker 66/358: id03379
+[id03379] Processing 65 files with 64 workers...
+[id03379] Completed 1/65
+[id03379] Completed 50/65
+DONE processing speaker id03379.
+Processing speaker 67/358: id08713
+[id08713] Processing 35 files with 64 workers...
+[id08713] Completed 1/35
+DONE processing speaker id08713.
+Processing speaker 68/358: id04171
+[id04171] Processing 65 files with 64 workers...
+[id04171] Completed 1/65
+[id04171] Completed 50/65
+DONE processing speaker id04171.
+Processing speaker 69/358: id02609
+[id02609] Processing 247 files with 64 workers...
+[id02609] Completed 1/247
+[id02609] Completed 50/247
+[id02609] Completed 100/247
+[id02609] Completed 150/247
+[id02609] Completed 200/247
+DONE processing speaker id02609.
+Processing speaker 70/358: id05754
+[id05754] Processing 54 files with 64 workers...
+[id05754] Completed 1/54
+[id05754] Completed 50/54
+DONE processing speaker id05754.
+Processing speaker 71/358: id04615
+[id04615] Processing 400 files with 64 workers...
+[id04615] Completed 1/400
+[id04615] Completed 50/400
+[id04615] Completed 100/400
+[id04615] Completed 150/400
+[id04615] Completed 200/400
+[id04615] Completed 250/400
+[id04615] Completed 300/400
+[id04615] Completed 350/400
+[id04615] Completed 400/400
+DONE processing speaker id04615.
+Processing speaker 72/358: id00421
+[id00421] Processing 249 files with 64 workers...
+[id00421] Completed 1/249
+[id00421] Completed 50/249
+[id00421] Completed 100/249
+[id00421] Completed 150/249
+[id00421] Completed 200/249
+DONE processing speaker id00421.
+Processing speaker 73/358: id03515
+[id03515] Processing 21 files with 64 workers...
+[id03515] Completed 1/21
+DONE processing speaker id03515.
+Processing speaker 74/358: id07145
+[id07145] Processing 497 files with 64 workers...
+[id07145] Completed 1/497
+[id07145] Completed 50/497
+[id07145] Completed 100/497
+[id07145] Completed 150/497
+[id07145] Completed 200/497
+[id07145] Completed 250/497
+[id07145] Completed 300/497
+[id07145] Completed 350/497
+[id07145] Completed 400/497
+[id07145] Completed 450/497
+DONE processing speaker id07145.
+Processing speaker 75/358: id02055
+[id02055] Processing 244 files with 64 workers...
+[id02055] Completed 1/244
+[id02055] Completed 50/244
+[id02055] Completed 100/244
+[id02055] Completed 150/244
+[id02055] Completed 200/244
+DONE processing speaker id02055.
+Processing speaker 76/358: id04379
+[id04379] Processing 115 files with 64 workers...
+[id04379] Completed 1/115
+[id04379] Completed 50/115
+[id04379] Completed 100/115
+DONE processing speaker id04379.
+Processing speaker 77/358: id08553
+[id08553] Processing 163 files with 64 workers...
+[id08553] Completed 1/163
+[id08553] Completed 50/163
+[id08553] Completed 100/163
+[id08553] Completed 150/163
+DONE processing speaker id08553.
+Processing speaker 78/358: id02047
+[id02047] Processing 99 files with 64 workers...
+[id02047] Completed 1/99
+[id02047] Completed 50/99
+DONE processing speaker id02047.
+Processing speaker 79/358: id07532
+[id07532] Processing 263 files with 64 workers...
+[id07532] Completed 1/263
+[id07532] Completed 50/263
+[id07532] Completed 100/263
+[id07532] Completed 150/263
+[id07532] Completed 200/263
+[id07532] Completed 250/263
+DONE processing speaker id07532.
+Processing speaker 80/358: id02162
+[id02162] Processing 148 files with 64 workers...
+[id02162] Completed 1/148
+[id02162] Completed 50/148
+[id02162] Completed 100/148
+DONE processing speaker id02162.
+Processing speaker 81/358: id02643
+[id02643] Processing 146 files with 64 workers...
+[id02643] Completed 1/146
+[id02643] Completed 50/146
+[id02643] Completed 100/146
+DONE processing speaker id02643.
+Processing speaker 82/358: id08190
+[id08190] Processing 88 files with 64 workers...
+[id08190] Completed 1/88
+[id08190] Completed 50/88
+DONE processing speaker id08190.
+Processing speaker 83/358: id03071
+[id03071] Processing 271 files with 64 workers...
+[id03071] Completed 1/271
+[id03071] Completed 50/271
+[id03071] Completed 100/271
+[id03071] Completed 150/271
+[id03071] Completed 200/271
+[id03071] Completed 250/271
+DONE processing speaker id03071.
+Processing speaker 84/358: id07847
+[id07847] Processing 263 files with 64 workers...
+[id07847] Completed 1/263
+[id07847] Completed 50/263
+[id07847] Completed 100/263
+[id07847] Completed 150/263
+[id07847] Completed 200/263
+[id07847] Completed 250/263
+DONE processing speaker id07847.
+Processing speaker 85/358: id02899
+[id02899] Processing 369 files with 64 workers...
+[id02899] Completed 1/369
+[id02899] Completed 50/369
+[id02899] Completed 100/369
+[id02899] Completed 150/369
+[id02899] Completed 200/369
+[id02899] Completed 250/369
+[id02899] Completed 300/369
+[id02899] Completed 350/369
+DONE processing speaker id02899.
+Processing speaker 86/358: id06495
+[id06495] Processing 356 files with 64 workers...
+[id06495] Completed 1/356
+[id06495] Completed 50/356
+[id06495] Completed 100/356
+[id06495] Completed 150/356
+[id06495] Completed 200/356
+[id06495] Completed 250/356
+[id06495] Completed 300/356
+[id06495] Completed 350/356
+DONE processing speaker id06495.
+Processing speaker 87/358: id05716
+[id05716] Processing 370 files with 64 workers...
+[id05716] Completed 1/370
+[id05716] Completed 50/370
+[id05716] Completed 100/370
+[id05716] Completed 150/370
+[id05716] Completed 200/370
+[id05716] Completed 250/370
+[id05716] Completed 300/370
+[id05716] Completed 350/370
+DONE processing speaker id05716.
+Processing speaker 88/358: id07020
+[id07020] Processing 86 files with 64 workers...
+[id07020] Completed 1/86
+[id07020] Completed 50/86
+DONE processing speaker id07020.
+Processing speaker 89/358: id04452
+[id04452] Processing 216 files with 64 workers...
+[id04452] Completed 1/216
+[id04452] Completed 50/216
+[id04452] Completed 100/216
+[id04452] Completed 150/216
+[id04452] Completed 200/216
+DONE processing speaker id04452.
+Processing speaker 90/358: id07262
+[id07262] Processing 270 files with 64 workers...
+[id07262] Completed 1/270
+[id07262] Completed 50/270
+[id07262] Completed 100/270
+[id07262] Completed 150/270
+[id07262] Completed 200/270
+[id07262] Completed 250/270
+DONE processing speaker id07262.
+Processing speaker 91/358: id09186
+[id09186] Processing 500 files with 64 workers...
+[id09186] Completed 1/500
+[id09186] Completed 50/500
+[id09186] Completed 100/500
+[id09186] Completed 150/500
+[id09186] Completed 200/500
+[id09186] Completed 250/500
+[id09186] Completed 300/500
+[id09186] Completed 350/500
+[id09186] Completed 400/500
+[id09186] Completed 450/500
+[id09186] Completed 500/500
+DONE processing speaker id09186.
+Processing speaker 92/358: id06696
+[id06696] Processing 428 files with 64 workers...
+[id06696] Completed 1/428
+[id06696] Completed 50/428
+[id06696] Completed 100/428
+[id06696] Completed 150/428
+[id06696] Completed 200/428
+[id06696] Completed 250/428
+[id06696] Completed 300/428
+[id06696] Completed 350/428
+[id06696] Completed 400/428
+DONE processing speaker id06696.
+Processing speaker 93/358: id00806
+[id00806] Processing 500 files with 64 workers...
+[id00806] Completed 1/500
+[id00806] Completed 50/500
+[id00806] Completed 100/500
+[id00806] Completed 150/500
+[id00806] Completed 200/500
+[id00806] Completed 250/500
+[id00806] Completed 300/500
+[id00806] Completed 350/500
+[id00806] Completed 400/500
+[id00806] Completed 450/500
+[id00806] Completed 500/500
+DONE processing speaker id00806.
+Processing speaker 94/358: id06347
+[id06347] Processing 433 files with 64 workers...
+[id06347] Completed 1/433
+[id06347] Completed 50/433
+[id06347] Completed 100/433
+[id06347] Completed 150/433
+[id06347] Completed 200/433
+[id06347] Completed 250/433
+[id06347] Completed 300/433
+[id06347] Completed 350/433
+[id06347] Completed 400/433
+DONE processing speaker id06347.
+Processing speaker 95/358: id01658
+[id01658] Processing 500 files with 64 workers...
+[id01658] Completed 1/500
+[id01658] Completed 50/500
+[id01658] Completed 100/500
+[id01658] Completed 150/500
+[id01658] Completed 200/500
+[id01658] Completed 250/500
+[id01658] Completed 300/500
+[id01658] Completed 350/500
+[id01658] Completed 400/500
+[id01658] Completed 450/500
+[id01658] Completed 500/500
+DONE processing speaker id01658.
+Processing speaker 96/358: id03477
+[id03477] Processing 264 files with 64 workers...
+[id03477] Completed 1/264
+[id03477] Completed 50/264
+[id03477] Completed 100/264
+[id03477] Completed 150/264
+[id03477] Completed 200/264
+[id03477] Completed 250/264
+DONE processing speaker id03477.
+Processing speaker 97/358: id05869
+[id05869] Processing 154 files with 64 workers...
+[id05869] Completed 1/154
+[id05869] Completed 50/154
+[id05869] Completed 100/154
+[id05869] Completed 150/154
+DONE processing speaker id05869.
+Processing speaker 98/358: id03725
+[id03725] Processing 322 files with 64 workers...
+[id03725] Completed 1/322
+[id03725] Completed 50/322
+[id03725] Completed 100/322
+[id03725] Completed 150/322
+[id03725] Completed 200/322
+[id03725] Completed 250/322
+[id03725] Completed 300/322
+DONE processing speaker id03725.
+Processing speaker 99/358: id01561
+[id01561] Processing 120 files with 64 workers...
+[id01561] Completed 1/120
+[id01561] Completed 50/120
+[id01561] Completed 100/120
+DONE processing speaker id01561.
+Processing speaker 100/358: id01624
+[id01624] Processing 106 files with 64 workers...
+[id01624] Completed 1/106
+[id01624] Completed 50/106
+[id01624] Completed 100/106
+DONE processing speaker id01624.
+Processing speaker 101/358: id06491
+[id06491] Processing 52 files with 64 workers...
+[id06491] Completed 1/52
+[id06491] Completed 50/52
+DONE processing speaker id06491.
+Processing speaker 102/358: id03158
+[id03158] Processing 131 files with 64 workers...
+[id03158] Completed 1/131
+[id03158] Completed 50/131
+[id03158] Completed 100/131
+DONE processing speaker id03158.
+Processing speaker 103/358: id04782
+[id04782] Processing 500 files with 64 workers...
+[id04782] Completed 1/500
+[id04782] Completed 50/500
+[id04782] Completed 100/500
+[id04782] Completed 150/500
+[id04782] Completed 200/500
+[id04782] Completed 250/500
+[id04782] Completed 300/500
+[id04782] Completed 350/500
+[id04782] Completed 400/500
+[id04782] Completed 450/500
+[id04782] Completed 500/500
+DONE processing speaker id04782.
+Processing speaker 104/358: id04991
+[id04991] Processing 180 files with 64 workers...
+[id04991] Completed 1/180
+[id04991] Completed 50/180
+[id04991] Completed 100/180
+[id04991] Completed 150/180
+DONE processing speaker id04991.
+Processing speaker 105/358: id07012
+[id07012] Processing 176 files with 64 workers...
+[id07012] Completed 1/176
+[id07012] Completed 50/176
+[id07012] Completed 100/176
+[id07012] Completed 150/176
+DONE processing speaker id07012.
+Processing speaker 106/358: id01946
+[id01946] Processing 112 files with 64 workers...
+[id01946] Completed 1/112
+[id01946] Completed 50/112
+[id01946] Completed 100/112
+DONE processing speaker id01946.
+Processing speaker 107/358: id05856
+[id05856] Processing 445 files with 64 workers...
+[id05856] Completed 1/445
+[id05856] Completed 50/445
+[id05856] Completed 100/445
+[id05856] Completed 150/445
+[id05856] Completed 200/445
+[id05856] Completed 250/445
+[id05856] Completed 300/445
+[id05856] Completed 350/445
+[id05856] Completed 400/445
+DONE processing speaker id05856.
+Processing speaker 108/358: id01905
+[id01905] Processing 333 files with 64 workers...
+[id01905] Completed 1/333
+[id01905] Completed 50/333
+[id01905] Completed 100/333
+[id01905] Completed 150/333
+[id01905] Completed 200/333
+[id01905] Completed 250/333
+[id01905] Completed 300/333
+DONE processing speaker id01905.
+Processing speaker 109/358: id05742
+[id05742] Processing 41 files with 64 workers...
+[id05742] Completed 1/41
+DONE processing speaker id05742.
+Processing speaker 110/358: id09010
+[id09010] Processing 111 files with 64 workers...
+[id09010] Completed 1/111
+[id09010] Completed 50/111
+[id09010] Completed 100/111
+DONE processing speaker id09010.
+Processing speaker 111/358: id08458
+[id08458] Processing 135 files with 64 workers...
+[id08458] Completed 1/135
+[id08458] Completed 50/135
+[id08458] Completed 100/135
+DONE processing speaker id08458.
+Processing speaker 112/358: id02837
+[id02837] Processing 31 files with 64 workers...
+[id02837] Completed 1/31
+DONE processing speaker id02837.
+Processing speaker 113/358: id09052
+[id09052] Processing 500 files with 64 workers...
+[id09052] Completed 1/500
+[id09052] Completed 50/500
+[id09052] Completed 100/500
+[id09052] Completed 150/500
+[id09052] Completed 200/500
+[id09052] Completed 250/500
+[id09052] Completed 300/500
+[id09052] Completed 350/500
+[id09052] Completed 400/500
+[id09052] Completed 450/500
+[id09052] Completed 500/500
+DONE processing speaker id09052.
+Processing speaker 114/358: id08202
+[id08202] Processing 360 files with 64 workers...
+[id08202] Completed 1/360
+[id08202] Completed 50/360
+[id08202] Completed 100/360
+[id08202] Completed 150/360
+[id08202] Completed 200/360
+[id08202] Completed 250/360
+[id08202] Completed 300/360
+[id08202] Completed 350/360
+DONE processing speaker id08202.
+Processing speaker 115/358: id07593
+[id07593] Processing 275 files with 64 workers...
+[id07593] Completed 1/275
+[id07593] Completed 50/275
+[id07593] Completed 100/275
+[id07593] Completed 150/275
+[id07593] Completed 200/275
+[id07593] Completed 250/275
+DONE processing speaker id07593.
+Processing speaker 116/358: id06064
+[id06064] Processing 263 files with 64 workers...
+[id06064] Completed 1/263
+[id06064] Completed 50/263
+[id06064] Completed 100/263
+[id06064] Completed 150/263
+[id06064] Completed 200/263
+[id06064] Completed 250/263
+DONE processing speaker id06064.
+Processing speaker 117/358: id01328
+[id01328] Processing 253 files with 64 workers...
+[id01328] Completed 1/253
+[id01328] Completed 50/253
+[id01328] Completed 100/253
+[id01328] Completed 150/253
+[id01328] Completed 200/253
+[id01328] Completed 250/253
+DONE processing speaker id01328.
+Processing speaker 118/358: id06624
+[id06624] Processing 320 files with 64 workers...
+[id06624] Completed 1/320
+[id06624] Completed 50/320
+[id06624] Completed 100/320
+[id06624] Completed 150/320
+[id06624] Completed 200/320
+[id06624] Completed 250/320
+[id06624] Completed 300/320
+DONE processing speaker id06624.
+Processing speaker 119/358: id02793
+[id02793] Processing 66 files with 64 workers...
+[id02793] Completed 1/66
+[id02793] Completed 50/66
+DONE processing speaker id02793.
+Processing speaker 120/358: id02020
+[id02020] Processing 131 files with 64 workers...
+[id02020] Completed 1/131
+[id02020] Completed 50/131
+[id02020] Completed 100/131
+DONE processing speaker id02020.
+Processing speaker 121/358: id04198
+[id04198] Processing 500 files with 64 workers...
+[id04198] Completed 1/500
+[id04198] Completed 50/500
+[id04198] Completed 100/500
+[id04198] Completed 150/500
+[id04198] Completed 200/500
+[id04198] Completed 250/500
+[id04198] Completed 300/500
+[id04198] Completed 350/500
+[id04198] Completed 400/500
+[id04198] Completed 450/500
+[id04198] Completed 500/500
+DONE processing speaker id04198.
+Processing speaker 122/358: id07971
+[id07971] Processing 94 files with 64 workers...
+[id07971] Completed 1/94
+[id07971] Completed 50/94
+DONE processing speaker id07971.
+Processing speaker 123/358: id05891
+[id05891] Processing 61 files with 64 workers...
+[id05891] Completed 1/61
+[id05891] Completed 50/61
+DONE processing speaker id05891.
+Processing speaker 124/358: id06115
+[id06115] Processing 350 files with 64 workers...
+[id06115] Completed 1/350
+[id06115] Completed 50/350
+[id06115] Completed 100/350
+[id06115] Completed 150/350
+[id06115] Completed 200/350
+[id06115] Completed 250/350
+[id06115] Completed 300/350
+[id06115] Completed 350/350
+DONE processing speaker id06115.
+Processing speaker 125/358: id01362
+[id01362] Processing 55 files with 64 workers...
+[id01362] Completed 1/55
+[id01362] Completed 50/55
+DONE processing speaker id01362.
+Processing speaker 126/358: id06070
+[id06070] Processing 500 files with 64 workers...
+[id06070] Completed 1/500
+[id06070] Completed 50/500
+[id06070] Completed 100/500
+[id06070] Completed 150/500
+[id06070] Completed 200/500
+[id06070] Completed 250/500
+[id06070] Completed 300/500
+[id06070] Completed 350/500
+[id06070] Completed 400/500
+[id06070] Completed 450/500
+[id06070] Completed 500/500
+DONE processing speaker id06070.
+Processing speaker 127/358: id02684
+[id02684] Processing 81 files with 64 workers...
+[id02684] Completed 1/81
+[id02684] Completed 50/81
+DONE processing speaker id02684.
+Processing speaker 128/358: id01347
+[id01347] Processing 29 files with 64 workers...
+[id01347] Completed 1/29
+DONE processing speaker id01347.
+Processing speaker 129/358: id01669
+[id01669] Processing 71 files with 64 workers...
+[id01669] Completed 1/71
+[id01669] Completed 50/71
+DONE processing speaker id01669.
+Processing speaker 130/358: id05398
+[id05398] Processing 98 files with 64 workers...
+[id05398] Completed 1/98
+[id05398] Completed 50/98
+DONE processing speaker id05398.
+Processing speaker 131/358: id00168
+[id00168] Processing 500 files with 64 workers...
+[id00168] Completed 1/500
+[id00168] Completed 50/500
+[id00168] Completed 100/500
+[id00168] Completed 150/500
+[id00168] Completed 200/500
+[id00168] Completed 250/500
+[id00168] Completed 300/500
+[id00168] Completed 350/500
+[id00168] Completed 400/500
+[id00168] Completed 450/500
+[id00168] Completed 500/500
+DONE processing speaker id00168.
+Processing speaker 132/358: id07416
+[id07416] Processing 65 files with 64 workers...
+[id07416] Completed 1/65
+[id07416] Completed 50/65
+DONE processing speaker id07416.
+Processing speaker 133/358: id05303
+[id05303] Processing 120 files with 64 workers...
+[id05303] Completed 1/120
+[id05303] Completed 50/120
+[id05303] Completed 100/120
+DONE processing speaker id05303.
+Processing speaker 134/358: id04064
+[id04064] Processing 428 files with 64 workers...
+[id04064] Completed 1/428
+[id04064] Completed 50/428
+[id04064] Completed 100/428
+[id04064] Completed 150/428
+[id04064] Completed 200/428
+[id04064] Completed 250/428
+[id04064] Completed 300/428
+[id04064] Completed 350/428
+[id04064] Completed 400/428
+DONE processing speaker id04064.
+Processing speaker 135/358: id03956
+[id03956] Processing 136 files with 64 workers...
+[id03956] Completed 1/136
+[id03956] Completed 50/136
+[id03956] Completed 100/136
+DONE processing speaker id03956.
+Processing speaker 136/358: id03463
+[id03463] Processing 71 files with 64 workers...
+[id03463] Completed 1/71
+[id03463] Completed 50/71
+DONE processing speaker id03463.
+Processing speaker 137/358: id01904
+[id01904] Processing 500 files with 64 workers...
+[id01904] Completed 1/500
+[id01904] Completed 50/500
+[id01904] Completed 100/500
+[id01904] Completed 150/500
+[id01904] Completed 200/500
+[id01904] Completed 250/500
+[id01904] Completed 300/500
+[id01904] Completed 350/500
+[id01904] Completed 400/500
+[id01904] Completed 450/500
+[id01904] Completed 500/500
+DONE processing speaker id01904.
+Processing speaker 138/358: id01853
+[id01853] Processing 26 files with 64 workers...
+[id01853] Completed 1/26
+DONE processing speaker id01853.
+Processing speaker 139/358: id04985
+[id04985] Processing 358 files with 64 workers...
+[id04985] Completed 1/358
+[id04985] Completed 50/358
+[id04985] Completed 100/358
+[id04985] Completed 150/358
+[id04985] Completed 200/358
+[id04985] Completed 250/358
+[id04985] Completed 300/358
+[id04985] Completed 350/358
+DONE processing speaker id04985.
+Processing speaker 140/358: id08901
+[id08901] Processing 340 files with 64 workers...
+[id08901] Completed 1/340
+[id08901] Completed 50/340
+[id08901] Completed 100/340
+[id08901] Completed 150/340
+[id08901] Completed 200/340
+[id08901] Completed 250/340
+[id08901] Completed 300/340
+DONE processing speaker id08901.
+Processing speaker 141/358: id07251
+[id07251] Processing 38 files with 64 workers...
+[id07251] Completed 1/38
+DONE processing speaker id07251.
+Processing speaker 142/358: id07981
+[id07981] Processing 158 files with 64 workers...
+[id07981] Completed 1/158
+[id07981] Completed 50/158
+[id07981] Completed 100/158
+[id07981] Completed 150/158
+DONE processing speaker id07981.
+Processing speaker 143/358: id03701
+[id03701] Processing 202 files with 64 workers...
+[id03701] Completed 1/202
+[id03701] Completed 50/202
+[id03701] Completed 100/202
+[id03701] Completed 150/202
+[id03701] Completed 200/202
+DONE processing speaker id03701.
+Processing speaker 144/358: id08470
+[id08470] Processing 26 files with 64 workers...
+[id08470] Completed 1/26
+DONE processing speaker id08470.
+Processing speaker 145/358: id07851
+[id07851] Processing 445 files with 64 workers...
+[id07851] Completed 1/445
+[id07851] Completed 50/445
+[id07851] Completed 100/445
+[id07851] Completed 150/445
+[id07851] Completed 200/445
+[id07851] Completed 250/445
+[id07851] Completed 300/445
+[id07851] Completed 350/445
+[id07851] Completed 400/445
+DONE processing speaker id07851.
+Processing speaker 146/358: id09082
+[id09082] Processing 161 files with 64 workers...
+[id09082] Completed 1/161
+[id09082] Completed 50/161
+[id09082] Completed 100/161
+[id09082] Completed 150/161
+DONE processing speaker id09082.
+Processing speaker 147/358: id06539
+[id06539] Processing 92 files with 64 workers...
+[id06539] Completed 1/92
+[id06539] Completed 50/92
+DONE processing speaker id06539.
+Processing speaker 148/358: id00650
+[id00650] Processing 500 files with 64 workers...
+[id00650] Completed 1/500
+[id00650] Completed 50/500
+[id00650] Completed 100/500
+[id00650] Completed 150/500
+[id00650] Completed 200/500
+[id00650] Completed 250/500
+[id00650] Completed 300/500
+[id00650] Completed 350/500
+[id00650] Completed 400/500
+[id00650] Completed 450/500
+[id00650] Completed 500/500
+DONE processing speaker id00650.
+Processing speaker 149/358: id06438
+[id06438] Processing 111 files with 64 workers...
+[id06438] Completed 1/111
+[id06438] Completed 50/111
+[id06438] Completed 100/111
+DONE processing speaker id06438.
+Processing speaker 150/358: id02945
+[id02945] Processing 227 files with 64 workers...
+[id02945] Completed 1/227
+[id02945] Completed 50/227
+[id02945] Completed 100/227
+[id02945] Completed 150/227
+[id02945] Completed 200/227
+DONE processing speaker id02945.
+Processing speaker 151/358: id01809
+[id01809] Processing 132 files with 64 workers...
+[id01809] Completed 1/132
+[id01809] Completed 50/132
+[id01809] Completed 100/132
+DONE processing speaker id01809.
+Processing speaker 152/358: id02095
+[id02095] Processing 293 files with 64 workers...
+[id02095] Completed 1/293
+[id02095] Completed 50/293
+[id02095] Completed 100/293
+[id02095] Completed 150/293
+[id02095] Completed 200/293
+[id02095] Completed 250/293
+DONE processing speaker id02095.
+Processing speaker 153/358: id04184
+[id04184] Processing 500 files with 64 workers...
+[id04184] Completed 1/500
+[id04184] Completed 50/500
+[id04184] Completed 100/500
+[id04184] Completed 150/500
+[id04184] Completed 200/500
+[id04184] Completed 250/500
+[id04184] Completed 300/500
+[id04184] Completed 350/500
+[id04184] Completed 400/500
+[id04184] Completed 450/500
+[id04184] Completed 500/500
+DONE processing speaker id04184.
+Processing speaker 154/358: id05023
+[id05023] Processing 122 files with 64 workers...
+[id05023] Completed 1/122
+[id05023] Completed 50/122
+[id05023] Completed 100/122
+DONE processing speaker id05023.
+Processing speaker 155/358: id06457
+[id06457] Processing 88 files with 64 workers...
+[id06457] Completed 1/88
+[id06457] Completed 50/88
+DONE processing speaker id06457.
+Processing speaker 156/358: id01065
+[id01065] Processing 36 files with 64 workers...
+[id01065] Completed 1/36
+DONE processing speaker id01065.
+Processing speaker 157/358: id03887
+[id03887] Processing 112 files with 64 workers...
+[id03887] Completed 1/112
+[id03887] Completed 50/112
+[id03887] Completed 100/112
+DONE processing speaker id03887.
+Processing speaker 158/358: id07862
+[id07862] Processing 58 files with 64 workers...
+[id07862] Completed 1/58
+[id07862] Completed 50/58
+DONE processing speaker id07862.
+Processing speaker 159/358: id02911
+[id02911] Processing 130 files with 64 workers...
+[id02911] Completed 1/130
+[id02911] Completed 50/130
+[id02911] Completed 100/130
+DONE processing speaker id02911.
+Processing speaker 160/358: id08124
+[id08124] Processing 168 files with 64 workers...
+[id08124] Completed 1/168
+[id08124] Completed 50/168
+[id08124] Completed 100/168
+[id08124] Completed 150/168
+DONE processing speaker id08124.
+Processing speaker 161/358: id05102
+[id05102] Processing 241 files with 64 workers...
+[id05102] Completed 1/241
+[id05102] Completed 50/241
+[id05102] Completed 100/241
+[id05102] Completed 150/241
+[id05102] Completed 200/241
+DONE processing speaker id05102.
+Processing speaker 162/358: id08719
+[id08719] Processing 85 files with 64 workers...
+[id08719] Completed 1/85
+[id08719] Completed 50/85
+DONE processing speaker id08719.
+Processing speaker 163/358: id07702
+[id07702] Processing 36 files with 64 workers...
+[id07702] Completed 1/36
+DONE processing speaker id07702.
+Processing speaker 164/358: id06797
+[id06797] Processing 141 files with 64 workers...
+[id06797] Completed 1/141
+[id06797] Completed 50/141
+[id06797] Completed 100/141
+DONE processing speaker id06797.
+Processing speaker 165/358: id05235
+[id05235] Processing 317 files with 64 workers...
+[id05235] Completed 1/317
+[id05235] Completed 50/317
+[id05235] Completed 100/317
+[id05235] Completed 150/317
+[id05235] Completed 200/317
+[id05235] Completed 250/317
+[id05235] Completed 300/317
+DONE processing speaker id05235.
+Processing speaker 166/358: id04600
+[id04600] Processing 340 files with 64 workers...
+[id04600] Completed 1/340
+[id04600] Completed 50/340
+[id04600] Completed 100/340
+[id04600] Completed 150/340
+[id04600] Completed 200/340
+[id04600] Completed 250/340
+[id04600] Completed 300/340
+DONE processing speaker id04600.
+Processing speaker 167/358: id06003
+[id06003] Processing 134 files with 64 workers...
+[id06003] Completed 1/134
+[id06003] Completed 50/134
+[id06003] Completed 100/134
+DONE processing speaker id06003.
+Processing speaker 168/358: id02647
+[id02647] Processing 202 files with 64 workers...
+[id02647] Completed 1/202
+[id02647] Completed 50/202
+[id02647] Completed 100/202
+[id02647] Completed 150/202
+[id02647] Completed 200/202
+DONE processing speaker id02647.
+Processing speaker 169/358: id00352
+[id00352] Processing 399 files with 64 workers...
+[id00352] Completed 1/399
+[id00352] Completed 50/399
+[id00352] Completed 100/399
+[id00352] Completed 150/399
+[id00352] Completed 200/399
+[id00352] Completed 250/399
+[id00352] Completed 300/399
+[id00352] Completed 350/399
+DONE processing speaker id00352.
+Processing speaker 170/358: id04321
+[id04321] Processing 283 files with 64 workers...
+[id04321] Completed 1/283
+[id04321] Completed 50/283
+[id04321] Completed 100/283
+[id04321] Completed 150/283
+[id04321] Completed 200/283
+[id04321] Completed 250/283
+DONE processing speaker id04321.
+Processing speaker 171/358: id03774
+[id03774] Processing 139 files with 64 workers...
+[id03774] Completed 1/139
+[id03774] Completed 50/139
+[id03774] Completed 100/139
+DONE processing speaker id03774.
+Processing speaker 172/358: id08700
+[id08700] Processing 209 files with 64 workers...
+[id08700] Completed 1/209
+[id08700] Completed 50/209
+[id08700] Completed 100/209
+[id08700] Completed 150/209
+[id08700] Completed 200/209
+DONE processing speaker id08700.
+Processing speaker 173/358: id07769
+[id07769] Processing 241 files with 64 workers...
+[id07769] Completed 1/241
+[id07769] Completed 50/241
+[id07769] Completed 100/241
+[id07769] Completed 150/241
+[id07769] Completed 200/241
+DONE processing speaker id07769.
+Processing speaker 174/358: id08689
+[id08689] Processing 22 files with 64 workers...
+[id08689] Completed 1/22
+DONE processing speaker id08689.
+Processing speaker 175/358: id00254
+[id00254] Processing 67 files with 64 workers...
+[id00254] Completed 1/67
+[id00254] Completed 50/67
+DONE processing speaker id00254.
+Processing speaker 176/358: id04205
+[id04205] Processing 93 files with 64 workers...
+[id04205] Completed 1/93
+[id04205] Completed 50/93
+DONE processing speaker id04205.
+Processing speaker 177/358: id08726
+[id08726] Processing 243 files with 64 workers...
+[id08726] Completed 1/243
+[id08726] Completed 50/243
+[id08726] Completed 100/243
+[id08726] Completed 150/243
+[id08726] Completed 200/243
+DONE processing speaker id08726.
+Processing speaker 178/358: id04907
+[id04907] Processing 500 files with 64 workers...
+[id04907] Completed 1/500
+[id04907] Completed 50/500
+[id04907] Completed 100/500
+[id04907] Completed 150/500
+[id04907] Completed 200/500
+[id04907] Completed 250/500
+[id04907] Completed 300/500
+[id04907] Completed 350/500
+[id04907] Completed 400/500
+[id04907] Completed 450/500
+[id04907] Completed 500/500
+DONE processing speaker id04907.
+Processing speaker 179/358: id05255
+[id05255] Processing 81 files with 64 workers...
+[id05255] Completed 1/81
+[id05255] Completed 50/81
+DONE processing speaker id05255.
+Processing speaker 180/358: id00802
+[id00802] Processing 23 files with 64 workers...
+[id00802] Completed 1/23
+DONE processing speaker id00802.
+Processing speaker 181/358: id05332
+[id05332] Processing 94 files with 64 workers...
+[id05332] Completed 1/94
+[id05332] Completed 50/94
+DONE processing speaker id05332.
+Processing speaker 182/358: id05312
+[id05312] Processing 76 files with 64 workers...
+[id05312] Completed 1/76
+[id05312] Completed 50/76
+DONE processing speaker id05312.
+Processing speaker 183/358: id06560
+[id06560] Processing 30 files with 64 workers...
+[id06560] Completed 1/30
+DONE processing speaker id06560.
+Processing speaker 184/358: id03077
+[id03077] Processing 58 files with 64 workers...
+[id03077] Completed 1/58
+[id03077] Completed 50/58
+DONE processing speaker id03077.
+Processing speaker 185/358: id03812
+[id03812] Processing 284 files with 64 workers...
+[id03812] Completed 1/284
+[id03812] Completed 50/284
+[id03812] Completed 100/284
+[id03812] Completed 150/284
+[id03812] Completed 200/284
+[id03812] Completed 250/284
+DONE processing speaker id03812.
+Processing speaker 186/358: id05121
+[id05121] Processing 219 files with 64 workers...
+[id05121] Completed 1/219
+[id05121] Completed 50/219
+[id05121] Completed 100/219
+[id05121] Completed 150/219
+[id05121] Completed 200/219
+DONE processing speaker id05121.
+Processing speaker 187/358: id01951
+[id01951] Processing 73 files with 64 workers...
+[id01951] Completed 1/73
+[id01951] Completed 50/73
+DONE processing speaker id01951.
+Processing speaker 188/358: id08453
+[id08453] Processing 25 files with 64 workers...
+[id08453] Completed 1/25
+DONE processing speaker id08453.
+Processing speaker 189/358: id00766
+[id00766] Processing 109 files with 64 workers...
+[id00766] Completed 1/109
+[id00766] Completed 50/109
+[id00766] Completed 100/109
+DONE processing speaker id00766.
+Processing speaker 190/358: id06663
+[id06663] Processing 500 files with 64 workers...
+[id06663] Completed 1/500
+[id06663] Completed 50/500
+[id06663] Completed 100/500
+[id06663] Completed 150/500
+[id06663] Completed 200/500
+[id06663] Completed 250/500
+[id06663] Completed 300/500
+[id06663] Completed 350/500
+[id06663] Completed 400/500
+[id06663] Completed 450/500
+[id06663] Completed 500/500
+DONE processing speaker id06663.
+Processing speaker 191/358: id06145
+[id06145] Processing 82 files with 64 workers...
+[id06145] Completed 1/82
+[id06145] Completed 50/82
+DONE processing speaker id06145.
+Processing speaker 192/358: id07115
+[id07115] Processing 174 files with 64 workers...
+[id07115] Completed 1/174
+[id07115] Completed 50/174
+[id07115] Completed 100/174
+[id07115] Completed 150/174
+DONE processing speaker id07115.
+Processing speaker 193/358: id06355
+[id06355] Processing 500 files with 64 workers...
+[id06355] Completed 1/500
+[id06355] Completed 50/500
+[id06355] Completed 100/500
+[id06355] Completed 150/500
+[id06355] Completed 200/500
+[id06355] Completed 250/500
+[id06355] Completed 300/500
+[id06355] Completed 350/500
+[id06355] Completed 400/500
+[id06355] Completed 450/500
+[id06355] Completed 500/500
+DONE processing speaker id06355.
+Processing speaker 194/358: id07749
+[id07749] Processing 151 files with 64 workers...
+[id07749] Completed 1/151
+[id07749] Completed 50/151
+[id07749] Completed 100/151
+[id07749] Completed 150/151
+DONE processing speaker id07749.
+Processing speaker 195/358: id02596
+[id02596] Processing 63 files with 64 workers...
+[id02596] Completed 1/63
+[id02596] Completed 50/63
+DONE processing speaker id02596.
+Processing speaker 196/358: id07993
+[id07993] Processing 287 files with 64 workers...
+[id07993] Completed 1/287
+[id07993] Completed 50/287
+[id07993] Completed 100/287
+[id07993] Completed 150/287
+[id07993] Completed 200/287
+[id07993] Completed 250/287
+DONE processing speaker id07993.
+Processing speaker 197/358: id07578
+[id07578] Processing 500 files with 64 workers...
+[id07578] Completed 1/500
+[id07578] Completed 50/500
+[id07578] Completed 100/500
+[id07578] Completed 150/500
+[id07578] Completed 200/500
+[id07578] Completed 250/500
+[id07578] Completed 300/500
+[id07578] Completed 350/500
+[id07578] Completed 400/500
+[id07578] Completed 450/500
+[id07578] Completed 500/500
+DONE processing speaker id07578.
+Processing speaker 198/358: id04312
+[id04312] Processing 79 files with 64 workers...
+[id04312] Completed 1/79
+[id04312] Completed 50/79
+DONE processing speaker id04312.
+Processing speaker 199/358: id03220
+[id03220] Processing 80 files with 64 workers...
+[id03220] Completed 1/80
+[id03220] Completed 50/80
+DONE processing speaker id03220.
+Processing speaker 200/358: id00884
+[id00884] Processing 162 files with 64 workers...
+[id00884] Completed 1/162
+[id00884] Completed 50/162
+[id00884] Completed 100/162
+[id00884] Completed 150/162
+DONE processing speaker id00884.
+Processing speaker 201/358: id05494
+[id05494] Processing 500 files with 64 workers...
+[id05494] Completed 1/500
+[id05494] Completed 50/500
+[id05494] Completed 100/500
+[id05494] Completed 150/500
+[id05494] Completed 200/500
+[id05494] Completed 250/500
+[id05494] Completed 300/500
+[id05494] Completed 350/500
+[id05494] Completed 400/500
+[id05494] Completed 450/500
+[id05494] Completed 500/500
+DONE processing speaker id05494.
+Processing speaker 202/358: id00911
+[id00911] Processing 500 files with 64 workers...
+[id00911] Completed 1/500
+[id00911] Completed 50/500
+[id00911] Completed 100/500
+[id00911] Completed 150/500
+[id00911] Completed 200/500
+[id00911] Completed 250/500
+[id00911] Completed 300/500
+[id00911] Completed 350/500
+[id00911] Completed 400/500
+[id00911] Completed 450/500
+[id00911] Completed 500/500
+DONE processing speaker id00911.
+Processing speaker 203/358: id01284
+[id01284] Processing 33 files with 64 workers...
+[id01284] Completed 1/33
+DONE processing speaker id01284.
+Processing speaker 204/358: id06165
+[id06165] Processing 55 files with 64 workers...
+[id06165] Completed 1/55
+[id06165] Completed 50/55
+DONE processing speaker id06165.
+Processing speaker 205/358: id06839
+[id06839] Processing 84 files with 64 workers...
+[id06839] Completed 1/84
+[id06839] Completed 50/84
+DONE processing speaker id06839.
+Processing speaker 206/358: id00520
+[id00520] Processing 361 files with 64 workers...
+[id00520] Completed 1/361
+[id00520] Completed 50/361
+[id00520] Completed 100/361
+[id00520] Completed 150/361
+[id00520] Completed 200/361
+[id00520] Completed 250/361
+[id00520] Completed 300/361
+[id00520] Completed 350/361
+DONE processing speaker id00520.
+Processing speaker 207/358: id07580
+[id07580] Processing 127 files with 64 workers...
+[id07580] Completed 1/127
+[id07580] Completed 50/127
+[id07580] Completed 100/127
+DONE processing speaker id07580.
+Processing speaker 208/358: id06163
+[id06163] Processing 269 files with 64 workers...
+[id06163] Completed 1/269
+[id06163] Completed 50/269
+[id06163] Completed 100/269
+[id06163] Completed 150/269
+[id06163] Completed 200/269
+[id06163] Completed 250/269
+DONE processing speaker id06163.
+Processing speaker 209/358: id02365
+[id02365] Processing 170 files with 64 workers...
+[id02365] Completed 1/170
+[id02365] Completed 50/170
+[id02365] Completed 100/170
+[id02365] Completed 150/170
+DONE processing speaker id02365.
+Processing speaker 210/358: id08302
+[id08302] Processing 64 files with 64 workers...
+[id08302] Completed 1/64
+[id08302] Completed 50/64
+DONE processing speaker id08302.
+Processing speaker 211/358: id02108
+[id02108] Processing 37 files with 64 workers...
+[id02108] Completed 1/37
+DONE processing speaker id02108.
+Processing speaker 212/358: id01341
+[id01341] Processing 87 files with 64 workers...
+[id01341] Completed 1/87
+[id01341] Completed 50/87
+DONE processing speaker id01341.
+Processing speaker 213/358: id04162
+[id04162] Processing 361 files with 64 workers...
+[id04162] Completed 1/361
+[id04162] Completed 50/361
+[id04162] Completed 100/361
+[id04162] Completed 150/361
+[id04162] Completed 200/361
+[id04162] Completed 250/361
+[id04162] Completed 300/361
+[id04162] Completed 350/361
+DONE processing speaker id04162.
+Processing speaker 214/358: id07732
+[id07732] Processing 49 files with 64 workers...
+[id07732] Completed 1/49
+DONE processing speaker id07732.
+Processing speaker 215/358: id03519
+[id03519] Processing 26 files with 64 workers...
+[id03519] Completed 1/26
+DONE processing speaker id03519.
+Processing speaker 216/358: id06029
+[id06029] Processing 41 files with 64 workers...
+[id06029] Completed 1/41
+DONE processing speaker id06029.
+Processing speaker 217/358: id01424
+[id01424] Processing 75 files with 64 workers...
+[id01424] Completed 1/75
+[id01424] Completed 50/75
+DONE processing speaker id01424.
+Processing speaker 218/358: id03863
+[id03863] Processing 217 files with 64 workers...
+[id03863] Completed 1/217
+[id03863] Completed 50/217
+[id03863] Completed 100/217
+[id03863] Completed 150/217
+[id03863] Completed 200/217
+DONE processing speaker id03863.
+Processing speaker 219/358: id06426
+[id06426] Processing 146 files with 64 workers...
+[id06426] Completed 1/146
+[id06426] Completed 50/146
+[id06426] Completed 100/146
+DONE processing speaker id06426.
+Processing speaker 220/358: id08902
+[id08902] Processing 259 files with 64 workers...
+[id08902] Completed 1/259
+[id08902] Completed 50/259
+[id08902] Completed 100/259
+[id08902] Completed 150/259
+[id08902] Completed 200/259
+[id08902] Completed 250/259
+DONE processing speaker id08902.
+Processing speaker 221/358: id03622
+[id03622] Processing 66 files with 64 workers...
+[id03622] Completed 1/66
+[id03622] Completed 50/66
+DONE processing speaker id03622.
+Processing speaker 222/358: id05263
+[id05263] Processing 130 files with 64 workers...
+[id05263] Completed 1/130
+[id05263] Completed 50/130
+[id05263] Completed 100/130
+DONE processing speaker id05263.
+Processing speaker 223/358: id01655
+[id01655] Processing 148 files with 64 workers...
+[id01655] Completed 1/148
+[id01655] Completed 50/148
+[id01655] Completed 100/148
+DONE processing speaker id01655.
+Processing speaker 224/358: id08337
+[id08337] Processing 167 files with 64 workers...
+[id08337] Completed 1/167
+[id08337] Completed 50/167
+[id08337] Completed 100/167
+[id08337] Completed 150/167
+DONE processing speaker id08337.
+Processing speaker 225/358: id00959
+[id00959] Processing 273 files with 64 workers...
+[id00959] Completed 1/273
+[id00959] Completed 50/273
+[id00959] Completed 100/273
+[id00959] Completed 150/273
+[id00959] Completed 200/273
+[id00959] Completed 250/273
+DONE processing speaker id00959.
+Processing speaker 226/358: id06353
+[id06353] Processing 29 files with 64 workers...
+[id06353] Completed 1/29
+DONE processing speaker id06353.
+Processing speaker 227/358: id03399
+[id03399] Processing 146 files with 64 workers...
+[id03399] Completed 1/146
+[id03399] Completed 50/146
+[id03399] Completed 100/146
+DONE processing speaker id03399.
+Processing speaker 228/358: id02683
+[id02683] Processing 142 files with 64 workers...
+[id02683] Completed 1/142
+[id02683] Completed 50/142
+[id02683] Completed 100/142
+DONE processing speaker id02683.
+Processing speaker 229/358: id03858
+[id03858] Processing 102 files with 64 workers...
+[id03858] Completed 1/102
+[id03858] Completed 50/102
+[id03858] Completed 100/102
+DONE processing speaker id03858.
+Processing speaker 230/358: id09161
+[id09161] Processing 76 files with 64 workers...
+[id09161] Completed 1/76
+[id09161] Completed 50/76
+DONE processing speaker id09161.
+Processing speaker 231/358: id03727
+[id03727] Processing 487 files with 64 workers...
+[id03727] Completed 1/487
+[id03727] Completed 50/487
+[id03727] Completed 100/487
+[id03727] Completed 150/487
+[id03727] Completed 200/487
+[id03727] Completed 250/487
+[id03727] Completed 300/487
+[id03727] Completed 350/487
+[id03727] Completed 400/487
+[id03727] Completed 450/487
+DONE processing speaker id03727.
+Processing speaker 232/358: id00917
+[id00917] Processing 76 files with 64 workers...
+[id00917] Completed 1/76
+[id00917] Completed 50/76
+DONE processing speaker id00917.
+Processing speaker 233/358: id05913
+[id05913] Processing 500 files with 64 workers...
+[id05913] Completed 1/500
+[id05913] Completed 50/500
+[id05913] Completed 100/500
+[id05913] Completed 150/500
+[id05913] Completed 200/500
+[id05913] Completed 250/500
+[id05913] Completed 300/500
+[id05913] Completed 350/500
+[id05913] Completed 400/500
+[id05913] Completed 450/500
+[id05913] Completed 500/500
+DONE processing speaker id05913.
+Processing speaker 234/358: id01959
+[id01959] Processing 39 files with 64 workers...
+[id01959] Completed 1/39
+DONE processing speaker id01959.
+Processing speaker 235/358: id07131
+[id07131] Processing 292 files with 64 workers...
+[id07131] Completed 1/292
+[id07131] Completed 50/292
+[id07131] Completed 100/292
+[id07131] Completed 150/292
+[id07131] Completed 200/292
+[id07131] Completed 250/292
+DONE processing speaker id07131.
+Processing speaker 236/358: id04512
+[id04512] Processing 152 files with 64 workers...
+[id04512] Completed 1/152
+[id04512] Completed 50/152
+[id04512] Completed 100/152
+[id04512] Completed 150/152
+DONE processing speaker id04512.
+Processing speaker 237/358: id01585
+[id01585] Processing 236 files with 64 workers...
+[id01585] Completed 1/236
+[id01585] Completed 50/236
+[id01585] Completed 100/236
+[id01585] Completed 150/236
+[id01585] Completed 200/236
+DONE processing speaker id01585.
+Processing speaker 238/358: id08235
+[id08235] Processing 93 files with 64 workers...
+[id08235] Completed 1/93
+[id08235] Completed 50/93
+DONE processing speaker id08235.
+Processing speaker 239/358: id01439
+[id01439] Processing 67 files with 64 workers...
+[id01439] Completed 1/67
+[id01439] Completed 50/67
+DONE processing speaker id01439.
+Processing speaker 240/358: id00097
+[id00097] Processing 354 files with 64 workers...
+[id00097] Completed 1/354
+[id00097] Completed 50/354
+[id00097] Completed 100/354
+[id00097] Completed 150/354
+[id00097] Completed 200/354
+[id00097] Completed 250/354
+[id00097] Completed 300/354
+[id00097] Completed 350/354
+DONE processing speaker id00097.
+Processing speaker 241/358: id00993
+[id00993] Processing 86 files with 64 workers...
+[id00993] Completed 1/86
+[id00993] Completed 50/86
+DONE processing speaker id00993.
+Processing speaker 242/358: id07695
+[id07695] Processing 47 files with 64 workers...
+[id07695] Completed 1/47
+DONE processing speaker id07695.
+Processing speaker 243/358: id03520
+[id03520] Processing 74 files with 64 workers...
+[id03520] Completed 1/74
+[id03520] Completed 50/74
+DONE processing speaker id03520.
+Processing speaker 244/358: id07529
+[id07529] Processing 284 files with 64 workers...
+[id07529] Completed 1/284
+[id07529] Completed 50/284
+[id07529] Completed 100/284
+[id07529] Completed 150/284
+[id07529] Completed 200/284
+[id07529] Completed 250/284
+DONE processing speaker id07529.
+Processing speaker 245/358: id05788
+[id05788] Processing 186 files with 64 workers...
+[id05788] Completed 1/186
+[id05788] Completed 50/186
+[id05788] Completed 100/186
+[id05788] Completed 150/186
+DONE processing speaker id05788.
+Processing speaker 246/358: id07171
+[id07171] Processing 325 files with 64 workers...
+[id07171] Completed 1/325
+[id07171] Completed 50/325
+[id07171] Completed 100/325
+[id07171] Completed 150/325
+[id07171] Completed 200/325
+[id07171] Completed 250/325
+[id07171] Completed 300/325
+DONE processing speaker id07171.
+Processing speaker 247/358: id00098
+[id00098] Processing 21 files with 64 workers...
+[id00098] Completed 1/21
+DONE processing speaker id00098.
+Processing speaker 248/358: id07456
+[id07456] Processing 74 files with 64 workers...
+[id07456] Completed 1/74
+[id07456] Completed 50/74
+DONE processing speaker id07456.
+Processing speaker 249/358: id08517
+[id08517] Processing 32 files with 64 workers...
+[id08517] Completed 1/32
+DONE processing speaker id08517.
+Processing speaker 250/358: id08804
+[id08804] Processing 500 files with 64 workers...
+[id08804] Completed 1/500
+[id08804] Completed 50/500
+[id08804] Completed 100/500
+[id08804] Completed 150/500
+[id08804] Completed 200/500
+[id08804] Completed 250/500
+[id08804] Completed 300/500
+[id08804] Completed 350/500
+[id08804] Completed 400/500
+[id08804] Completed 450/500
+[id08804] Completed 500/500
+DONE processing speaker id08804.
+Processing speaker 251/358: id08271
+[id08271] Processing 96 files with 64 workers...
+[id08271] Completed 1/96
+[id08271] Completed 50/96
+DONE processing speaker id08271.
+Processing speaker 252/358: id06697
+[id06697] Processing 75 files with 64 workers...
+[id06697] Completed 1/75
+[id06697] Completed 50/75
+DONE processing speaker id06697.
+Processing speaker 253/358: id06293
+[id06293] Processing 46 files with 64 workers...
+[id06293] Completed 1/46
+DONE processing speaker id06293.
+Processing speaker 254/358: id05844
+[id05844] Processing 92 files with 64 workers...
+[id05844] Completed 1/92
+[id05844] Completed 50/92
+DONE processing speaker id05844.
+Processing speaker 255/358: id02983
+[id02983] Processing 242 files with 64 workers...
+[id02983] Completed 1/242
+[id02983] Completed 50/242
+[id02983] Completed 100/242
+[id02983] Completed 150/242
+[id02983] Completed 200/242
+DONE processing speaker id02983.
+Processing speaker 256/358: id01750
+[id01750] Processing 446 files with 64 workers...
+[id01750] Completed 1/446
+[id01750] Completed 50/446
+[id01750] Completed 100/446
+[id01750] Completed 150/446
+[id01750] Completed 200/446
+[id01750] Completed 250/446
+[id01750] Completed 300/446
+[id01750] Completed 350/446
+[id01750] Completed 400/446
+DONE processing speaker id01750.
+Processing speaker 257/358: id08731
+[id08731] Processing 143 files with 64 workers...
+[id08731] Completed 1/143
+[id08731] Completed 50/143
+[id08731] Completed 100/143
+DONE processing speaker id08731.
+Processing speaker 258/358: id04216
+[id04216] Processing 500 files with 64 workers...
+[id04216] Completed 1/500
+[id04216] Completed 50/500
+[id04216] Completed 100/500
+[id04216] Completed 150/500
+[id04216] Completed 200/500
+[id04216] Completed 250/500
+[id04216] Completed 300/500
+[id04216] Completed 350/500
+[id04216] Completed 400/500
+[id04216] Completed 450/500
+[id04216] Completed 500/500
+DONE processing speaker id04216.
+Processing speaker 259/358: id04691
+[id04691] Processing 22 files with 64 workers...
+[id04691] Completed 1/22
+DONE processing speaker id04691.
+Processing speaker 260/358: id05100
+[id05100] Processing 71 files with 64 workers...
+[id05100] Completed 1/71
+[id05100] Completed 50/71
+DONE processing speaker id05100.
+Processing speaker 261/358: id00577
+[id00577] Processing 140 files with 64 workers...
+[id00577] Completed 1/140
+[id00577] Completed 50/140
+[id00577] Completed 100/140
+DONE processing speaker id00577.
+Processing speaker 262/358: id00414
+[id00414] Processing 119 files with 64 workers...
+[id00414] Completed 1/119
+[id00414] Completed 50/119
+[id00414] Completed 100/119
+DONE processing speaker id00414.
+Processing speaker 263/358: id01047
+[id01047] Processing 60 files with 64 workers...
+[id01047] Completed 1/60
+[id01047] Completed 50/60
+DONE processing speaker id01047.
+Processing speaker 264/358: id00828
+[id00828] Processing 60 files with 64 workers...
+[id00828] Completed 1/60
+[id00828] Completed 50/60
+DONE processing speaker id00828.
+Processing speaker 265/358: id04084
+[id04084] Processing 85 files with 64 workers...
+[id04084] Completed 1/85
+[id04084] Completed 50/85
+DONE processing speaker id04084.
+Processing speaker 266/358: id00571
+[id00571] Processing 108 files with 64 workers...
+[id00571] Completed 1/108
+[id00571] Completed 50/108
+[id00571] Completed 100/108
+DONE processing speaker id00571.
+Processing speaker 267/358: id02926
+[id02926] Processing 59 files with 64 workers...
+[id02926] Completed 1/59
+[id02926] Completed 50/59
+DONE processing speaker id02926.
+Processing speaker 268/358: id01891
+[id01891] Processing 184 files with 64 workers...
+[id01891] Completed 1/184
+[id01891] Completed 50/184
+[id01891] Completed 100/184
+[id01891] Completed 150/184
+DONE processing speaker id01891.
+Processing speaker 269/358: id03928
+[id03928] Processing 307 files with 64 workers...
+[id03928] Completed 1/307
+[id03928] Completed 50/307
+[id03928] Completed 100/307
+[id03928] Completed 150/307
+[id03928] Completed 200/307
+[id03928] Completed 250/307
+[id03928] Completed 300/307
+DONE processing speaker id03928.
+Processing speaker 270/358: id06380
+[id06380] Processing 108 files with 64 workers...
+[id06380] Completed 1/108
+[id06380] Completed 50/108
+[id06380] Completed 100/108
+DONE processing speaker id06380.
+Processing speaker 271/358: id00292
+[id00292] Processing 81 files with 64 workers...
+[id00292] Completed 1/81
+[id00292] Completed 50/81
+DONE processing speaker id00292.
+Processing speaker 272/358: id05963
+[id05963] Processing 113 files with 64 workers...
+[id05963] Completed 1/113
+[id05963] Completed 50/113
+[id05963] Completed 100/113
+DONE processing speaker id05963.
+Processing speaker 273/358: id07181
+[id07181] Processing 500 files with 64 workers...
+[id07181] Completed 1/500
+[id07181] Completed 50/500
+[id07181] Completed 100/500
+[id07181] Completed 150/500
+[id07181] Completed 200/500
+[id07181] Completed 250/500
+[id07181] Completed 300/500
+[id07181] Completed 350/500
+[id07181] Completed 400/500
+[id07181] Completed 450/500
+[id07181] Completed 500/500
+DONE processing speaker id07181.
+Processing speaker 274/358: id07154
+[id07154] Processing 71 files with 64 workers...
+[id07154] Completed 1/71
+[id07154] Completed 50/71
+DONE processing speaker id07154.
+Processing speaker 275/358: id04946
+[id04946] Processing 102 files with 64 workers...
+[id04946] Completed 1/102
+[id04946] Completed 50/102
+[id04946] Completed 100/102
+DONE processing speaker id04946.
+Processing speaker 276/358: id03951
+[id03951] Processing 47 files with 64 workers...
+[id03951] Completed 1/47
+DONE processing speaker id03951.
+Processing speaker 277/358: id09153
+[id09153] Processing 28 files with 64 workers...
+[id09153] Completed 1/28
+DONE processing speaker id09153.
+Processing speaker 278/358: id03090
+[id03090] Processing 223 files with 64 workers...
+[id03090] Completed 1/223
+[id03090] Completed 50/223
+[id03090] Completed 100/223
+[id03090] Completed 150/223
+[id03090] Completed 200/223
+DONE processing speaker id03090.
+Processing speaker 279/358: id07692
+[id07692] Processing 40 files with 64 workers...
+[id07692] Completed 1/40
+DONE processing speaker id07692.
+Processing speaker 280/358: id00475
+[id00475] Processing 106 files with 64 workers...
+[id00475] Completed 1/106
+[id00475] Completed 50/106
+[id00475] Completed 100/106
+DONE processing speaker id00475.
+Processing speaker 281/358: id02166
+[id02166] Processing 500 files with 64 workers...
+[id02166] Completed 1/500
+[id02166] Completed 50/500
+[id02166] Completed 100/500
+[id02166] Completed 150/500
+[id02166] Completed 200/500
+[id02166] Completed 250/500
+[id02166] Completed 300/500
+[id02166] Completed 350/500
+[id02166] Completed 400/500
+[id02166] Completed 450/500
+[id02166] Completed 500/500
+DONE processing speaker id02166.
+Processing speaker 282/358: id06906
+[id06906] Processing 55 files with 64 workers...
+[id06906] Completed 1/55
+[id06906] Completed 50/55
+DONE processing speaker id06906.
+Processing speaker 283/358: id02981
+[id02981] Processing 500 files with 64 workers...
+[id02981] Completed 1/500
+[id02981] Completed 50/500
+[id02981] Completed 100/500
+[id02981] Completed 150/500
+[id02981] Completed 200/500
+[id02981] Completed 250/500
+[id02981] Completed 300/500
+[id02981] Completed 350/500
+[id02981] Completed 400/500
+[id02981] Completed 450/500
+[id02981] Completed 500/500
+DONE processing speaker id02981.
+Processing speaker 284/358: id03927
+[id03927] Processing 200 files with 64 workers...
+[id03927] Completed 1/200
+[id03927] Completed 50/200
+[id03927] Completed 100/200
+[id03927] Completed 150/200
+[id03927] Completed 200/200
+DONE processing speaker id03927.
+Processing speaker 285/358: id00380
+[id00380] Processing 153 files with 64 workers...
+[id00380] Completed 1/153
+[id00380] Completed 50/153
+[id00380] Completed 100/153
+[id00380] Completed 150/153
+DONE processing speaker id00380.
+Processing speaker 286/358: id06377
+[id06377] Processing 40 files with 64 workers...
+[id06377] Completed 1/40
+DONE processing speaker id06377.
+Processing speaker 287/358: id02276
+[id02276] Processing 97 files with 64 workers...
+[id02276] Completed 1/97
+[id02276] Completed 50/97
+DONE processing speaker id02276.
+Processing speaker 288/358: id08545
+[id08545] Processing 67 files with 64 workers...
+[id08545] Completed 1/67
+[id08545] Completed 50/67
+DONE processing speaker id08545.
+Processing speaker 289/358: id04445
+[id04445] Processing 61 files with 64 workers...
+[id04445] Completed 1/61
+[id04445] Completed 50/61
+DONE processing speaker id04445.
+Processing speaker 290/358: id07626
+[id07626] Processing 23 files with 64 workers...
+[id07626] Completed 1/23
+DONE processing speaker id07626.
+Processing speaker 291/358: id05060
+[id05060] Processing 500 files with 64 workers...
+[id05060] Completed 1/500
+[id05060] Completed 50/500
+[id05060] Completed 100/500
+[id05060] Completed 150/500
+[id05060] Completed 200/500
+[id05060] Completed 250/500
+[id05060] Completed 300/500
+[id05060] Completed 350/500
+[id05060] Completed 400/500
+[id05060] Completed 450/500
+[id05060] Completed 500/500
+DONE processing speaker id05060.
+Processing speaker 292/358: id06845
+[id06845] Processing 63 files with 64 workers...
+[id06845] Completed 1/63
+[id06845] Completed 50/63
+DONE processing speaker id06845.
+Processing speaker 293/358: id01894
+[id01894] Processing 181 files with 64 workers...
+[id01894] Completed 1/181
+[id01894] Completed 50/181
+[id01894] Completed 100/181
+[id01894] Completed 150/181
+DONE processing speaker id01894.
+Processing speaker 294/358: id00449
+[id00449] Processing 24 files with 64 workers...
+[id00449] Completed 1/24
+DONE processing speaker id00449.
+Processing speaker 295/358: id02124
+[id02124] Processing 61 files with 64 workers...
+[id02124] Completed 1/61
+[id02124] Completed 50/61
+DONE processing speaker id02124.
+Processing speaker 296/358: id06403
+[id06403] Processing 317 files with 64 workers...
+[id06403] Completed 1/317
+[id06403] Completed 50/317
+[id06403] Completed 100/317
+[id06403] Completed 150/317
+[id06403] Completed 200/317
+[id06403] Completed 250/317
+[id06403] Completed 300/317
+DONE processing speaker id06403.
+Processing speaker 297/358: id06404
+[id06404] Processing 336 files with 64 workers...
+[id06404] Completed 1/336
+[id06404] Completed 50/336
+[id06404] Completed 100/336
+[id06404] Completed 150/336
+[id06404] Completed 200/336
+[id06404] Completed 250/336
+[id06404] Completed 300/336
+DONE processing speaker id06404.
+Processing speaker 298/358: id05383
+[id05383] Processing 37 files with 64 workers...
+[id05383] Completed 1/37
+DONE processing speaker id05383.
+Processing speaker 299/358: id01431
+[id01431] Processing 176 files with 64 workers...
+[id01431] Completed 1/176
+[id01431] Completed 50/176
+[id01431] Completed 100/176
+[id01431] Completed 150/176
+DONE processing speaker id01431.
+Processing speaker 300/358: id06985
+[id06985] Processing 197 files with 64 workers...
+[id06985] Completed 1/197
+[id06985] Completed 50/197
+[id06985] Completed 100/197
+[id06985] Completed 150/197
+DONE processing speaker id06985.
+Processing speaker 301/358: id07910
+[id07910] Processing 116 files with 64 workers...
+[id07910] Completed 1/116
+[id07910] Completed 50/116
+[id07910] Completed 100/116
+DONE processing speaker id07910.
+Processing speaker 302/358: id08277
+[id08277] Processing 212 files with 64 workers...
+[id08277] Completed 1/212
+[id08277] Completed 50/212
+[id08277] Completed 100/212
+[id08277] Completed 150/212
+[id08277] Completed 200/212
+DONE processing speaker id08277.
+Processing speaker 303/358: id03888
+[id03888] Processing 64 files with 64 workers...
+[id03888] Completed 1/64
+[id03888] Completed 50/64
+DONE processing speaker id03888.
+Processing speaker 304/358: id08213
+[id08213] Processing 241 files with 64 workers...
+[id08213] Completed 1/241
+[id08213] Completed 50/241
+[id08213] Completed 100/241
+[id08213] Completed 150/241
+[id08213] Completed 200/241
+DONE processing speaker id08213.
+Processing speaker 305/358: id05805
+[id05805] Processing 32 files with 64 workers...
+[id05805] Completed 1/32
+DONE processing speaker id05805.
+Processing speaker 306/358: id04293
+[id04293] Processing 47 files with 64 workers...
+[id04293] Completed 1/47
+DONE processing speaker id04293.
+Processing speaker 307/358: id01155
+[id01155] Processing 203 files with 64 workers...
+[id01155] Completed 1/203
+[id01155] Completed 50/203
+[id01155] Completed 100/203
+[id01155] Completed 150/203
+[id01155] Completed 200/203
+DONE processing speaker id01155.
+Processing speaker 308/358: id03198
+[id03198] Processing 58 files with 64 workers...
+[id03198] Completed 1/58
+[id03198] Completed 50/58
+DONE processing speaker id03198.
+Processing speaker 309/358: id06535
+[id06535] Processing 195 files with 64 workers...
+[id06535] Completed 1/195
+[id06535] Completed 50/195
+[id06535] Completed 100/195
+[id06535] Completed 150/195
+DONE processing speaker id06535.
+Processing speaker 310/358: id06378
+[id06378] Processing 500 files with 64 workers...
+[id06378] Completed 1/500
+[id06378] Completed 50/500
+[id06378] Completed 100/500
+[id06378] Completed 150/500
+[id06378] Completed 200/500
+[id06378] Completed 250/500
+[id06378] Completed 300/500
+[id06378] Completed 350/500
+[id06378] Completed 400/500
+[id06378] Completed 450/500
+[id06378] Completed 500/500
+DONE processing speaker id06378.
+Processing speaker 311/358: id04246
+[id04246] Processing 128 files with 64 workers...
+[id04246] Completed 1/128
+[id04246] Completed 50/128
+[id04246] Completed 100/128
+DONE processing speaker id04246.
+Processing speaker 312/358: id02920
+[id02920] Processing 70 files with 64 workers...
+[id02920] Completed 1/70
+[id02920] Completed 50/70
+DONE processing speaker id02920.
+Processing speaker 313/358: id05960
+[id05960] Processing 259 files with 64 workers...
+[id05960] Completed 1/259
+[id05960] Completed 50/259
+[id05960] Completed 100/259
+[id05960] Completed 150/259
+[id05960] Completed 200/259
+[id05960] Completed 250/259
+DONE processing speaker id05960.
+Processing speaker 314/358: id05471
+[id05471] Processing 476 files with 64 workers...
+[id05471] Completed 1/476
+[id05471] Completed 50/476
+[id05471] Completed 100/476
+[id05471] Completed 150/476
+[id05471] Completed 200/476
+[id05471] Completed 250/476
+[id05471] Completed 300/476
+[id05471] Completed 350/476
+[id05471] Completed 400/476
+[id05471] Completed 450/476
+DONE processing speaker id05471.
+Processing speaker 315/358: id07042
+[id07042] Processing 38 files with 64 workers...
+[id07042] Completed 1/38
+DONE processing speaker id07042.
+Processing speaker 316/358: id01490
+[id01490] Processing 232 files with 64 workers...
+[id01490] Completed 1/232
+[id01490] Completed 50/232
+[id01490] Completed 100/232
+[id01490] Completed 150/232
+[id01490] Completed 200/232
+DONE processing speaker id01490.
+Processing speaker 317/358: id07442
+[id07442] Processing 72 files with 64 workers...
+[id07442] Completed 1/72
+[id07442] Completed 50/72
+DONE processing speaker id07442.
+Processing speaker 318/358: id04578
+[id04578] Processing 87 files with 64 workers...
+[id04578] Completed 1/87
+[id04578] Completed 50/87
+DONE processing speaker id04578.
+Processing speaker 319/358: id01663
+[id01663] Processing 148 files with 64 workers...
+[id01663] Completed 1/148
+[id01663] Completed 50/148
+[id01663] Completed 100/148
+DONE processing speaker id01663.
+Processing speaker 320/358: id00820
+[id00820] Processing 83 files with 64 workers...
+[id00820] Completed 1/83
+[id00820] Completed 50/83
+DONE processing speaker id00820.
+Processing speaker 321/358: id06643
+[id06643] Processing 125 files with 64 workers...
+[id06643] Completed 1/125
+[id06643] Completed 50/125
+[id06643] Completed 100/125
+DONE processing speaker id06643.
+Processing speaker 322/358: id08532
+[id08532] Processing 165 files with 64 workers...
+[id08532] Completed 1/165
+[id08532] Completed 50/165
+[id08532] Completed 100/165
+[id08532] Completed 150/165
+DONE processing speaker id08532.
+Processing speaker 323/358: id03262
+[id03262] Processing 76 files with 64 workers...
+[id03262] Completed 1/76
+[id03262] Completed 50/76
+DONE processing speaker id03262.
+Processing speaker 324/358: id05201
+[id05201] Processing 224 files with 64 workers...
+[id05201] Completed 1/224
+[id05201] Completed 50/224
+[id05201] Completed 100/224
+[id05201] Completed 150/224
+[id05201] Completed 200/224
+DONE processing speaker id05201.
+Processing speaker 325/358: id04752
+[id04752] Processing 496 files with 64 workers...
+[id04752] Completed 1/496
+[id04752] Completed 50/496
+[id04752] Completed 100/496
+[id04752] Completed 150/496
+[id04752] Completed 200/496
+[id04752] Completed 250/496
+[id04752] Completed 300/496
+[id04752] Completed 350/496
+[id04752] Completed 400/496
+[id04752] Completed 450/496
+DONE processing speaker id04752.
+Processing speaker 326/358: id01075
+[id01075] Processing 304 files with 64 workers...
+[id01075] Completed 1/304
+[id01075] Completed 50/304
+[id01075] Completed 100/304
+[id01075] Completed 150/304
+[id01075] Completed 200/304
+[id01075] Completed 250/304
+[id01075] Completed 300/304
+DONE processing speaker id01075.
+Processing speaker 327/358: id03892
+[id03892] Processing 46 files with 64 workers...
+[id03892] Completed 1/46
+DONE processing speaker id03892.
+Processing speaker 328/358: id05387
+[id05387] Processing 21 files with 64 workers...
+[id05387] Completed 1/21
+DONE processing speaker id05387.
+Processing speaker 329/358: id01753
+[id01753] Processing 312 files with 64 workers...
+[id01753] Completed 1/312
+[id01753] Completed 50/312
+[id01753] Completed 100/312
+[id01753] Completed 150/312
+[id01753] Completed 200/312
+[id01753] Completed 250/312
+[id01753] Completed 300/312
+DONE processing speaker id01753.
+Processing speaker 330/358: id04800
+[id04800] Processing 46 files with 64 workers...
+[id04800] Completed 1/46
+DONE processing speaker id04800.
+Processing speaker 331/358: id01468
+[id01468] Processing 195 files with 64 workers...
+[id01468] Completed 1/195
+[id01468] Completed 50/195
+[id01468] Completed 100/195
+[id01468] Completed 150/195
+DONE processing speaker id01468.
+Processing speaker 332/358: id03448
+[id03448] Processing 115 files with 64 workers...
+[id03448] Completed 1/115
+[id03448] Completed 50/115
+[id03448] Completed 100/115
+DONE processing speaker id03448.
+Processing speaker 333/358: id04332
+[id04332] Processing 329 files with 64 workers...
+[id04332] Completed 1/329
+[id04332] Completed 50/329
+[id04332] Completed 100/329
+[id04332] Completed 150/329
+[id04332] Completed 200/329
+[id04332] Completed 250/329
+[id04332] Completed 300/329
+DONE processing speaker id04332.
+Processing speaker 334/358: id06445
+[id06445] Processing 492 files with 64 workers...
+[id06445] Completed 1/492
+[id06445] Completed 50/492
+[id06445] Completed 100/492
+[id06445] Completed 150/492
+[id06445] Completed 200/492
+[id06445] Completed 250/492
+[id06445] Completed 300/492
+[id06445] Completed 350/492
+[id06445] Completed 400/492
+[id06445] Completed 450/492
+DONE processing speaker id06445.
+Processing speaker 335/358: id02876
+[id02876] Processing 331 files with 64 workers...
+[id02876] Completed 1/331
+[id02876] Completed 50/331
+[id02876] Completed 100/331
+[id02876] Completed 150/331
+[id02876] Completed 200/331
+[id02876] Completed 250/331
+[id02876] Completed 300/331
+DONE processing speaker id02876.
+Processing speaker 336/358: id09192
+[id09192] Processing 487 files with 64 workers...
+[id09192] Completed 1/487
+[id09192] Completed 50/487
+[id09192] Completed 100/487
+[id09192] Completed 150/487
+[id09192] Completed 200/487
+[id09192] Completed 250/487
+[id09192] Completed 300/487
+[id09192] Completed 350/487
+[id09192] Completed 400/487
+[id09192] Completed 450/487
+DONE processing speaker id09192.
+Processing speaker 337/358: id03315
+[id03315] Processing 219 files with 64 workers...
+[id03315] Completed 1/219
+[id03315] Completed 50/219
+[id03315] Completed 100/219
+[id03315] Completed 150/219
+[id03315] Completed 200/219
+DONE processing speaker id03315.
+Processing speaker 338/358: id06239
+[id06239] Processing 500 files with 64 workers...
+[id06239] Completed 1/500
+[id06239] Completed 50/500
+[id06239] Completed 100/500
+[id06239] Completed 150/500
+[id06239] Completed 200/500
+[id06239] Completed 250/500
+[id06239] Completed 300/500
+[id06239] Completed 350/500
+[id06239] Completed 400/500
+[id06239] Completed 450/500
+[id06239] Completed 500/500
+DONE processing speaker id06239.
+Processing speaker 339/358: id00513
+[id00513] Processing 472 files with 64 workers...
+[id00513] Completed 1/472
+[id00513] Completed 50/472
+[id00513] Completed 100/472
+[id00513] Completed 150/472
+[id00513] Completed 200/472
+[id00513] Completed 250/472
+[id00513] Completed 300/472
+[id00513] Completed 350/472
+[id00513] Completed 400/472
+[id00513] Completed 450/472
+DONE processing speaker id00513.
+Processing speaker 340/358: id08137
+[id08137] Processing 167 files with 64 workers...
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/uuxGMs4wroM/00476.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/uuxGMs4wroM/00476.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/uuxGMs4wroM/00476.wav.
+Error opening output files: Invalid argument
+
+[id08137] Completed 1/167
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/fgBURr30B5g/00353.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/fgBURr30B5g/00353.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/fgBURr30B5g/00353.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/fi-A4dJy6UI/00372.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/fi-A4dJy6UI/00372.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/fi-A4dJy6UI/00372.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/kBsM8iO-GaQ/00379.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/kBsM8iO-GaQ/00379.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/kBsM8iO-GaQ/00379.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/Pvrmbe76RkU/00199.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/Pvrmbe76RkU/00199.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/Pvrmbe76RkU/00199.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/Pvrmbe76RkU/00197.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/Pvrmbe76RkU/00197.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/Pvrmbe76RkU/00197.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/Pvrmbe76RkU/00198.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/Pvrmbe76RkU/00198.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/Pvrmbe76RkU/00198.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/kBsM8iO-GaQ/00380.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/kBsM8iO-GaQ/00380.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/kBsM8iO-GaQ/00380.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/XPb6Yuz-a2Q/00238.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/XPb6Yuz-a2Q/00238.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/XPb6Yuz-a2Q/00238.wav.
+Error opening output files: Invalid argument
+
+[id08137] Completed 50/167
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/XPb6Yuz-a2Q/00239.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/XPb6Yuz-a2Q/00239.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/XPb6Yuz-a2Q/00239.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00232.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00232.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00232.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00225.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00225.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00225.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00223.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00223.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00223.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00227.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00227.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00227.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00234.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00234.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00234.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00228.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00228.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00228.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00224.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00224.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00224.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00235.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00235.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00235.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00231.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00231.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00231.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00230.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00230.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00230.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00226.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00226.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00226.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00233.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00233.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00233.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00229.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/VX0sO2rdWaQ/00229.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/VX0sO2rdWaQ/00229.wav.
+Error opening output files: Invalid argument
+
+[id08137] Completed 100/167
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00439.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00439.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/nscaICU6qAo/00439.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00438.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00438.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/nscaICU6qAo/00438.wav.
+Error opening output files: Invalid argument
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00437.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00437.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/nscaICU6qAo/00437.wav.
+Error opening output files: Invalid argument
+
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00429.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00429.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/nscaICU6qAo/00429.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/_qU4vpGVRuI/00289.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/_qU4vpGVRuI/00289.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/_qU4vpGVRuI/00289.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00428.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00428.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/nscaICU6qAo/00428.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00436.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/nscaICU6qAo/00436.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/nscaICU6qAo/00436.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/wiQHe7G6Ra8/00494.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/wiQHe7G6Ra8/00494.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/wiQHe7G6Ra8/00494.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/JVSnAPMTCa4/00102.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/JVSnAPMTCa4/00102.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/JVSnAPMTCa4/00102.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/wiQHe7G6Ra8/00493.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/wiQHe7G6Ra8/00493.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/wiQHe7G6Ra8/00493.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/vUMTgewc9No/00478.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/vUMTgewc9No/00478.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/vUMTgewc9No/00478.wav.
+Error opening output files: Invalid argument
+
+ERROR processing /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/rkVpGV_MjgI/00449.mp4:
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 13.3.0 (conda-forge gcc 13.3.0-1)
+  configuration: --prefix=/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-wav-and-jpg --cc=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-cc --cxx=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-c++ --nm=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-nm --ar=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/x86_64-conda-linux-gnu-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --disable-gnutls --enable-libmp3lame --enable-libvpx --enable-libass --enable-pthreads --enable-vaapi --enable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/home/conda/feedstock_root/build_artifacts/ffmpeg_1732155191655/_build_env/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/mp4/id08137/rkVpGV_MjgI/00449.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: N/A, bitrate: N/A
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value '0:a' for option 'map': Invalid argument
+Error parsing options for output file /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/wav/id08137/rkVpGV_MjgI/00449.wav.
+Error opening output files: Invalid argument
+
+[id08137] Completed 150/167
+DONE processing speaker id08137.
+Processing speaker 341/358: id04886
+[id04886] Processing 128 files with 64 workers...
+[id04886] Completed 1/128
+[id04886] Completed 50/128
+[id04886] Completed 100/128
+DONE processing speaker id04886.
+Processing speaker 342/358: id07599
+[id07599] Processing 28 files with 64 workers...
+[id07599] Completed 1/28
+DONE processing speaker id07599.
+Processing speaker 343/358: id08554
+[id08554] Processing 90 files with 64 workers...
+[id08554] Completed 1/90
+[id08554] Completed 50/90
+DONE processing speaker id08554.
+Processing speaker 344/358: id00432
+[id00432] Processing 215 files with 64 workers...
+[id00432] Completed 1/215
+[id00432] Completed 50/215
+[id00432] Completed 100/215
+[id00432] Completed 150/215
+[id00432] Completed 200/215
+DONE processing speaker id00432.
+Processing speaker 345/358: id08722
+[id08722] Processing 233 files with 64 workers...
+[id08722] Completed 1/233
+[id08722] Completed 50/233
+[id08722] Completed 100/233
+[id08722] Completed 150/233
+[id08722] Completed 200/233
+DONE processing speaker id08722.
+Processing speaker 346/358: id01274
+[id01274] Processing 216 files with 64 workers...
+[id01274] Completed 1/216
+[id01274] Completed 50/216
+[id01274] Completed 100/216
+[id01274] Completed 150/216
+[id01274] Completed 200/216
+DONE processing speaker id01274.
+Processing speaker 347/358: id08567
+[id08567] Processing 109 files with 64 workers...
+[id08567] Completed 1/109
+[id08567] Completed 50/109
+[id08567] Completed 100/109
+DONE processing speaker id08567.
+Processing speaker 348/358: id02361
+[id02361] Processing 406 files with 64 workers...
+[id02361] Completed 1/406
+[id02361] Completed 50/406
+[id02361] Completed 100/406
+[id02361] Completed 150/406
+[id02361] Completed 200/406
+[id02361] Completed 250/406
+[id02361] Completed 300/406
+[id02361] Completed 350/406
+[id02361] Completed 400/406
+DONE processing speaker id02361.
+Processing speaker 349/358: id03634
+[id03634] Processing 184 files with 64 workers...
+[id03634] Completed 1/184
+[id03634] Completed 50/184
+[id03634] Completed 100/184
+[id03634] Completed 150/184
+DONE processing speaker id03634.
+Processing speaker 350/358: id03899
+[id03899] Processing 149 files with 64 workers...
+[id03899] Completed 1/149
+[id03899] Completed 50/149
+[id03899] Completed 100/149
+DONE processing speaker id03899.
+Processing speaker 351/358: id08711
+[id08711] Processing 228 files with 64 workers...
+[id08711] Completed 1/228
+[id08711] Completed 50/228
+[id08711] Completed 100/228
+[id08711] Completed 150/228
+[id08711] Completed 200/228
+DONE processing speaker id08711.
+Processing speaker 352/358: id02978
+[id02978] Processing 193 files with 64 workers...
+[id02978] Completed 1/193
+[id02978] Completed 50/193
+[id02978] Completed 100/193
+[id02978] Completed 150/193
+DONE processing speaker id02978.
+Processing speaker 353/358: id02460
+[id02460] Processing 42 files with 64 workers...
+[id02460] Completed 1/42
+DONE processing speaker id02460.
+Processing speaker 354/358: id03976
+[id03976] Processing 381 files with 64 workers...
+[id03976] Completed 1/381
+[id03976] Completed 50/381
+[id03976] Completed 100/381
+[id03976] Completed 150/381
+[id03976] Completed 200/381
+[id03976] Completed 250/381
+[id03976] Completed 300/381
+[id03976] Completed 350/381
+DONE processing speaker id03976.
+Processing speaker 355/358: id07123
+[id07123] Processing 105 files with 64 workers...
+[id07123] Completed 1/105
+[id07123] Completed 50/105
+[id07123] Completed 100/105
+DONE processing speaker id07123.
+Processing speaker 356/358: id07839
+[id07839] Processing 50 files with 64 workers...
+[id07839] Completed 1/50
+[id07839] Completed 50/50
+DONE processing speaker id07839.
+Processing speaker 357/358: id01723
+[id01723] Processing 95 files with 64 workers...
+[id01723] Completed 1/95
+[id01723] Completed 50/95
+DONE processing speaker id01723.
+Job finished at Sat Dec  6 22:42:51 CST 2025

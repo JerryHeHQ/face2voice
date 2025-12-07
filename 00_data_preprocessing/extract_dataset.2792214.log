@@ -1,0 +1,46 @@
+Job started at Sat Dec  6 16:35:07 CST 2025
+Running on node c303-006.ls6.tacc.utexas.edu
+Running up to 7 extractions in parallel, 8 threads per extraction
+-----------------------------------------------------
+-----------------------------------------------------
+2025-12-06 16:35:12 - Starting extraction of /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_2.zip
+Extraction log: /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_2/extraction.log
+-----------------------------------------------------
+2025-12-06 16:35:12 - Starting extraction of /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_3.zip
+-----------------------------------------------------
+-----------------------------------------------------
+Extraction log: /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_3/extraction.log
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+2025-12-06 16:35:12 - Starting extraction of /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_6.zip
+2025-12-06 16:35:12 - Starting extraction of /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_4.zip
+Extraction log: /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_6/extraction.log
+Extraction log: /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_4/extraction.log
+-----------------------------------------------------
+-----------------------------------------------------
+2025-12-06 16:35:12 - Starting extraction of /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_5.zip
+2025-12-06 16:35:12 - Starting extraction of /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_1.zip
+Extraction log: /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_5/extraction.log
+Extraction log: /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_mp4_1/extraction.log
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+2025-12-06 16:35:12 - Starting extraction of /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_test_mp4.zip
+Extraction log: /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox2_test_mp4/extraction.log
+-----------------------------------------------------
+2025-12-06 16:40:19 - Successfully extracted /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_test_mp4.zip
+-----------------------------------------------------
+2025-12-06 16:44:38 - Successfully extracted /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_6.zip
+-----------------------------------------------------
+2025-12-06 17:03:46 - Successfully extracted /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_5.zip
+-----------------------------------------------------
+2025-12-06 17:04:03 - Successfully extracted /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_4.zip
+-----------------------------------------------------
+2025-12-06 17:04:11 - Successfully extracted /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_2.zip
+-----------------------------------------------------
+2025-12-06 17:04:13 - Successfully extracted /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_3.zip
+-----------------------------------------------------
+2025-12-06 17:04:31 - Successfully extracted /scratch/11077/jerryhe/VoxCeleb2/Raw/vox2_mp4_1.zip
+-----------------------------------------------------
+Job finished at Sat Dec  6 17:04:31 CST 2025

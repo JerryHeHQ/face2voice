@@ -1,0 +1,1153 @@
+Job started at Sat Dec  6 22:56:40 CST 2025
+Running on node c302-005.ls6.tacc.utexas.edu
+Job ID: 2792670
+Starting Python script...
+118 speakers found.
+Processing speaker 0/118: id04253
+[id04253] Processing 349 files with 64 workers...
+[id04253] Completed 1/349
+[id04253] Completed 50/349
+[id04253] Completed 100/349
+[id04253] Completed 150/349
+[id04253] Completed 200/349
+[id04253] Completed 250/349
+[id04253] Completed 300/349
+DONE processing speaker id04253.
+Processing speaker 1/118: id08456
+[id08456] Processing 425 files with 64 workers...
+[id08456] Completed 1/425
+[id08456] Completed 50/425
+[id08456] Completed 100/425
+[id08456] Completed 150/425
+[id08456] Completed 200/425
+[id08456] Completed 250/425
+[id08456] Completed 300/425
+[id08456] Completed 350/425
+[id08456] Completed 400/425
+DONE processing speaker id08456.
+Processing speaker 2/118: id03789
+[id03789] Processing 500 files with 64 workers...
+[id03789] Completed 1/500
+[id03789] Completed 50/500
+[id03789] Completed 100/500
+[id03789] Completed 150/500
+[id03789] Completed 200/500
+[id03789] Completed 250/500
+[id03789] Completed 300/500
+[id03789] Completed 350/500
+[id03789] Completed 400/500
+[id03789] Completed 450/500
+[id03789] Completed 500/500
+DONE processing speaker id03789.
+Processing speaker 3/118: id08696
+[id08696] Processing 497 files with 64 workers...
+[id08696] Completed 1/497
+[id08696] Completed 50/497
+[id08696] Completed 100/497
+[id08696] Completed 150/497
+[id08696] Completed 200/497
+[id08696] Completed 250/497
+[id08696] Completed 300/497
+[id08696] Completed 350/497
+[id08696] Completed 400/497
+[id08696] Completed 450/497
+DONE processing speaker id08696.
+Processing speaker 4/118: id07414
+[id07414] Processing 450 files with 64 workers...
+[id07414] Completed 1/450
+[id07414] Completed 50/450
+[id07414] Completed 100/450
+[id07414] Completed 150/450
+[id07414] Completed 200/450
+[id07414] Completed 250/450
+[id07414] Completed 300/450
+[id07414] Completed 350/450
+[id07414] Completed 400/450
+[id07414] Completed 450/450
+DONE processing speaker id07414.
+Processing speaker 5/118: id02057
+[id02057] Processing 445 files with 64 workers...
+[id02057] Completed 1/445
+[id02057] Completed 50/445
+[id02057] Completed 100/445
+[id02057] Completed 150/445
+[id02057] Completed 200/445
+[id02057] Completed 250/445
+[id02057] Completed 300/445
+[id02057] Completed 350/445
+[id02057] Completed 400/445
+DONE processing speaker id02057.
+Processing speaker 6/118: id02465
+[id02465] Processing 182 files with 64 workers...
+[id02465] Completed 1/182
+[id02465] Completed 50/182
+[id02465] Completed 100/182
+[id02465] Completed 150/182
+DONE processing speaker id02465.
+Processing speaker 7/118: id01333
+[id01333] Processing 441 files with 64 workers...
+[id01333] Completed 1/441
+[id01333] Completed 50/441
+[id01333] Completed 100/441
+[id01333] Completed 150/441
+[id01333] Completed 200/441
+[id01333] Completed 250/441
+[id01333] Completed 300/441
+[id01333] Completed 350/441
+[id01333] Completed 400/441
+DONE processing speaker id01333.
+Processing speaker 8/118: id07494
+[id07494] Processing 439 files with 64 workers...
+[id07494] Completed 1/439
+[id07494] Completed 50/439
+[id07494] Completed 100/439
+[id07494] Completed 150/439
+[id07494] Completed 200/439
+[id07494] Completed 250/439
+[id07494] Completed 300/439
+[id07494] Completed 350/439
+[id07494] Completed 400/439
+DONE processing speaker id07494.
+Processing speaker 9/118: id04657
+[id04657] Processing 500 files with 64 workers...
+[id04657] Completed 1/500
+[id04657] Completed 50/500
+[id04657] Completed 100/500
+[id04657] Completed 150/500
+[id04657] Completed 200/500
+[id04657] Completed 250/500
+[id04657] Completed 300/500
+[id04657] Completed 350/500
+[id04657] Completed 400/500
+[id04657] Completed 450/500
+[id04657] Completed 500/500
+DONE processing speaker id04657.
+Processing speaker 10/118: id05015
+[id05015] Processing 295 files with 64 workers...
+[id05015] Completed 1/295
+[id05015] Completed 50/295
+[id05015] Completed 100/295
+[id05015] Completed 150/295
+[id05015] Completed 200/295
+[id05015] Completed 250/295
+DONE processing speaker id05015.
+Processing speaker 11/118: id00017
+[id00017] Processing 183 files with 64 workers...
+[id00017] Completed 1/183
+[id00017] Completed 50/183
+[id00017] Completed 100/183
+[id00017] Completed 150/183
+DONE processing speaker id00017.
+Processing speaker 12/118: id04570
+[id04570] Processing 405 files with 64 workers...
+[id04570] Completed 1/405
+[id04570] Completed 50/405
+[id04570] Completed 100/405
+[id04570] Completed 150/405
+[id04570] Completed 200/405
+[id04570] Completed 250/405
+[id04570] Completed 300/405
+[id04570] Completed 350/405
+[id04570] Completed 400/405
+DONE processing speaker id04570.
+Processing speaker 13/118: id03127
+[id03127] Processing 361 files with 64 workers...
+[id03127] Completed 1/361
+[id03127] Completed 50/361
+[id03127] Completed 100/361
+[id03127] Completed 150/361
+[id03127] Completed 200/361
+[id03127] Completed 250/361
+[id03127] Completed 300/361
+[id03127] Completed 350/361
+DONE processing speaker id03127.
+Processing speaker 14/118: id00081
+[id00081] Processing 309 files with 64 workers...
+[id00081] Completed 1/309
+[id00081] Completed 50/309
+[id00081] Completed 100/309
+[id00081] Completed 150/309
+[id00081] Completed 200/309
+[id00081] Completed 250/309
+[id00081] Completed 300/309
+DONE processing speaker id00081.
+Processing speaker 15/118: id06104
+[id06104] Processing 345 files with 64 workers...
+[id06104] Completed 1/345
+[id06104] Completed 50/345
+[id06104] Completed 100/345
+[id06104] Completed 150/345
+[id06104] Completed 200/345
+[id06104] Completed 250/345
+[id06104] Completed 300/345
+DONE processing speaker id06104.
+Processing speaker 16/118: id04366
+[id04366] Processing 256 files with 64 workers...
+[id04366] Completed 1/256
+[id04366] Completed 50/256
+[id04366] Completed 100/256
+[id04366] Completed 150/256
+[id04366] Completed 200/256
+[id04366] Completed 250/256
+DONE processing speaker id04366.
+Processing speaker 17/118: id07874
+[id07874] Processing 361 files with 64 workers...
+[id07874] Completed 1/361
+[id07874] Completed 50/361
+[id07874] Completed 100/361
+[id07874] Completed 150/361
+[id07874] Completed 200/361
+[id07874] Completed 250/361
+[id07874] Completed 300/361
+[id07874] Completed 350/361
+DONE processing speaker id07874.
+Processing speaker 18/118: id08374
+[id08374] Processing 500 files with 64 workers...
+[id08374] Completed 1/500
+[id08374] Completed 50/500
+[id08374] Completed 100/500
+[id08374] Completed 150/500
+[id08374] Completed 200/500
+[id08374] Completed 250/500
+[id08374] Completed 300/500
+[id08374] Completed 350/500
+[id08374] Completed 400/500
+[id08374] Completed 450/500
+[id08374] Completed 500/500
+DONE processing speaker id08374.
+Processing speaker 19/118: id01541
+[id01541] Processing 440 files with 64 workers...
+[id01541] Completed 1/440
+[id01541] Completed 50/440
+[id01541] Completed 100/440
+[id01541] Completed 150/440
+[id01541] Completed 200/440
+[id01541] Completed 250/440
+[id01541] Completed 300/440
+[id01541] Completed 350/440
+[id01541] Completed 400/440
+DONE processing speaker id01541.
+Processing speaker 20/118: id03382
+[id03382] Processing 179 files with 64 workers...
+[id03382] Completed 1/179
+[id03382] Completed 50/179
+[id03382] Completed 100/179
+[id03382] Completed 150/179
+DONE processing speaker id03382.
+Processing speaker 21/118: id03524
+[id03524] Processing 500 files with 64 workers...
+[id03524] Completed 1/500
+[id03524] Completed 50/500
+[id03524] Completed 100/500
+[id03524] Completed 150/500
+[id03524] Completed 200/500
+[id03524] Completed 250/500
+[id03524] Completed 300/500
+[id03524] Completed 350/500
+[id03524] Completed 400/500
+[id03524] Completed 450/500
+[id03524] Completed 500/500
+DONE processing speaker id03524.
+Processing speaker 22/118: id06484
+[id06484] Processing 205 files with 64 workers...
+[id06484] Completed 1/205
+[id06484] Completed 50/205
+[id06484] Completed 100/205
+[id06484] Completed 150/205
+[id06484] Completed 200/205
+DONE processing speaker id06484.
+Processing speaker 23/118: id01892
+[id01892] Processing 128 files with 64 workers...
+[id01892] Completed 1/128
+[id01892] Completed 50/128
+[id01892] Completed 100/128
+DONE processing speaker id01892.
+Processing speaker 24/118: id03677
+[id03677] Processing 204 files with 64 workers...
+[id03677] Completed 1/204
+[id03677] Completed 50/204
+[id03677] Completed 100/204
+[id03677] Completed 150/204
+[id03677] Completed 200/204
+DONE processing speaker id03677.
+Processing speaker 25/118: id01298
+[id01298] Processing 500 files with 64 workers...
+[id01298] Completed 1/500
+[id01298] Completed 50/500
+[id01298] Completed 100/500
+[id01298] Completed 150/500
+[id01298] Completed 200/500
+[id01298] Completed 250/500
+[id01298] Completed 300/500
+[id01298] Completed 350/500
+[id01298] Completed 400/500
+[id01298] Completed 450/500
+[id01298] Completed 500/500
+DONE processing speaker id01298.
+Processing speaker 26/118: id08911
+[id08911] Processing 97 files with 64 workers...
+[id08911] Completed 1/97
+[id08911] Completed 50/97
+DONE processing speaker id08911.
+Processing speaker 27/118: id04094
+[id04094] Processing 498 files with 64 workers...
+[id04094] Completed 1/498
+[id04094] Completed 50/498
+[id04094] Completed 100/498
+[id04094] Completed 150/498
+[id04094] Completed 200/498
+[id04094] Completed 250/498
+[id04094] Completed 300/498
+[id04094] Completed 350/498
+[id04094] Completed 400/498
+[id04094] Completed 450/498
+DONE processing speaker id04094.
+Processing speaker 28/118: id06692
+[id06692] Processing 491 files with 64 workers...
+[id06692] Completed 1/491
+[id06692] Completed 50/491
+[id06692] Completed 100/491
+[id06692] Completed 150/491
+[id06692] Completed 200/491
+[id06692] Completed 250/491
+[id06692] Completed 300/491
+[id06692] Completed 350/491
+[id06692] Completed 400/491
+[id06692] Completed 450/491
+DONE processing speaker id06692.
+Processing speaker 29/118: id02548
+[id02548] Processing 368 files with 64 workers...
+[id02548] Completed 1/368
+[id02548] Completed 50/368
+[id02548] Completed 100/368
+[id02548] Completed 150/368
+[id02548] Completed 200/368
+[id02548] Completed 250/368
+[id02548] Completed 300/368
+[id02548] Completed 350/368
+DONE processing speaker id02548.
+Processing speaker 30/118: id07354
+[id07354] Processing 500 files with 64 workers...
+[id07354] Completed 1/500
+[id07354] Completed 50/500
+[id07354] Completed 100/500
+[id07354] Completed 150/500
+[id07354] Completed 200/500
+[id07354] Completed 250/500
+[id07354] Completed 300/500
+[id07354] Completed 350/500
+[id07354] Completed 400/500
+[id07354] Completed 450/500
+[id07354] Completed 500/500
+DONE processing speaker id07354.
+Processing speaker 31/118: id00061
+[id00061] Processing 288 files with 64 workers...
+[id00061] Completed 1/288
+[id00061] Completed 50/288
+[id00061] Completed 100/288
+[id00061] Completed 150/288
+[id00061] Completed 200/288
+[id00061] Completed 250/288
+DONE processing speaker id00061.
+Processing speaker 32/118: id03347
+[id03347] Processing 423 files with 64 workers...
+[id03347] Completed 1/423
+[id03347] Completed 50/423
+[id03347] Completed 100/423
+[id03347] Completed 150/423
+[id03347] Completed 200/423
+[id03347] Completed 250/423
+[id03347] Completed 300/423
+[id03347] Completed 350/423
+[id03347] Completed 400/423
+DONE processing speaker id03347.
+Processing speaker 33/118: id06811
+[id06811] Processing 384 files with 64 workers...
+[id06811] Completed 1/384
+[id06811] Completed 50/384
+[id06811] Completed 100/384
+[id06811] Completed 150/384
+[id06811] Completed 200/384
+[id06811] Completed 250/384
+[id06811] Completed 300/384
+[id06811] Completed 350/384
+DONE processing speaker id06811.
+Processing speaker 34/118: id02542
+[id02542] Processing 123 files with 64 workers...
+[id02542] Completed 1/123
+[id02542] Completed 50/123
+[id02542] Completed 100/123
+DONE processing speaker id02542.
+Processing speaker 35/118: id03969
+[id03969] Processing 120 files with 64 workers...
+[id03969] Completed 1/120
+[id03969] Completed 50/120
+[id03969] Completed 100/120
+DONE processing speaker id03969.
+Processing speaker 36/118: id01822
+[id01822] Processing 241 files with 64 workers...
+[id01822] Completed 1/241
+[id01822] Completed 50/241
+[id01822] Completed 100/241
+[id01822] Completed 150/241
+[id01822] Completed 200/241
+DONE processing speaker id01822.
+Processing speaker 37/118: id01618
+[id01618] Processing 203 files with 64 workers...
+[id01618] Completed 1/203
+[id01618] Completed 50/203
+[id01618] Completed 100/203
+[id01618] Completed 150/203
+[id01618] Completed 200/203
+DONE processing speaker id01618.
+Processing speaker 38/118: id07312
+[id07312] Processing 111 files with 64 workers...
+[id07312] Completed 1/111
+[id07312] Completed 50/111
+[id07312] Completed 100/111
+DONE processing speaker id07312.
+Processing speaker 39/118: id04627
+[id04627] Processing 65 files with 64 workers...
+[id04627] Completed 1/65
+[id04627] Completed 50/65
+DONE processing speaker id04627.
+Processing speaker 40/118: id01509
+[id01509] Processing 440 files with 64 workers...
+[id01509] Completed 1/440
+[id01509] Completed 50/440
+[id01509] Completed 100/440
+[id01509] Completed 150/440
+[id01509] Completed 200/440
+[id01509] Completed 250/440
+[id01509] Completed 300/440
+[id01509] Completed 350/440
+[id01509] Completed 400/440
+DONE processing speaker id01509.
+Processing speaker 41/118: id05714
+[id05714] Processing 26 files with 64 workers...
+[id05714] Completed 1/26
+DONE processing speaker id05714.
+Processing speaker 42/118: id02286
+[id02286] Processing 168 files with 64 workers...
+[id02286] Completed 1/168
+[id02286] Completed 50/168
+[id02286] Completed 100/168
+[id02286] Completed 150/168
+DONE processing speaker id02286.
+Processing speaker 43/118: id08548
+[id08548] Processing 55 files with 64 workers...
+[id08548] Completed 1/55
+[id08548] Completed 50/55
+DONE processing speaker id08548.
+Processing speaker 44/118: id07620
+[id07620] Processing 487 files with 64 workers...
+[id07620] Completed 1/487
+[id07620] Completed 50/487
+[id07620] Completed 100/487
+[id07620] Completed 150/487
+[id07620] Completed 200/487
+[id07620] Completed 250/487
+[id07620] Completed 300/487
+[id07620] Completed 350/487
+[id07620] Completed 400/487
+[id07620] Completed 450/487
+DONE processing speaker id07620.
+Processing speaker 45/118: id05176
+[id05176] Processing 107 files with 64 workers...
+[id05176] Completed 1/107
+[id05176] Completed 50/107
+[id05176] Completed 100/107
+DONE processing speaker id05176.
+Processing speaker 46/118: id05654
+[id05654] Processing 157 files with 64 workers...
+[id05654] Completed 1/157
+[id05654] Completed 50/157
+[id05654] Completed 100/157
+[id05654] Completed 150/157
+DONE processing speaker id05654.
+Processing speaker 47/118: id07663
+[id07663] Processing 222 files with 64 workers...
+[id07663] Completed 1/222
+[id07663] Completed 50/222
+[id07663] Completed 100/222
+[id07663] Completed 150/222
+[id07663] Completed 200/222
+DONE processing speaker id07663.
+Processing speaker 48/118: id02576
+[id02576] Processing 154 files with 64 workers...
+[id02576] Completed 1/154
+[id02576] Completed 50/154
+[id02576] Completed 100/154
+[id02576] Completed 150/154
+DONE processing speaker id02576.
+Processing speaker 49/118: id04950
+[id04950] Processing 320 files with 64 workers...
+[id04950] Completed 1/320
+[id04950] Completed 50/320
+[id04950] Completed 100/320
+[id04950] Completed 150/320
+[id04950] Completed 200/320
+[id04950] Completed 250/320
+[id04950] Completed 300/320
+DONE processing speaker id04950.
+Processing speaker 50/118: id01041
+[id01041] Processing 405 files with 64 workers...
+[id01041] Completed 1/405
+[id01041] Completed 50/405
+[id01041] Completed 100/405
+[id01041] Completed 150/405
+[id01041] Completed 200/405
+[id01041] Completed 250/405
+[id01041] Completed 300/405
+[id01041] Completed 350/405
+[id01041] Completed 400/405
+DONE processing speaker id01041.
+Processing speaker 51/118: id01437
+[id01437] Processing 264 files with 64 workers...
+[id01437] Completed 1/264
+[id01437] Completed 50/264
+[id01437] Completed 100/264
+[id01437] Completed 150/264
+[id01437] Completed 200/264
+[id01437] Completed 250/264
+DONE processing speaker id01437.
+Processing speaker 52/118: id03041
+[id03041] Processing 55 files with 64 workers...
+[id03041] Completed 1/55
+[id03041] Completed 50/55
+DONE processing speaker id03041.
+Processing speaker 53/118: id05202
+[id05202] Processing 187 files with 64 workers...
+[id05202] Completed 1/187
+[id05202] Completed 50/187
+[id05202] Completed 100/187
+[id05202] Completed 150/187
+DONE processing speaker id05202.
+Processing speaker 54/118: id01228
+[id01228] Processing 373 files with 64 workers...
+[id01228] Completed 1/373
+[id01228] Completed 50/373
+[id01228] Completed 100/373
+[id01228] Completed 150/373
+[id01228] Completed 200/373
+[id01228] Completed 250/373
+[id01228] Completed 300/373
+[id01228] Completed 350/373
+DONE processing speaker id01228.
+Processing speaker 55/118: id01066
+[id01066] Processing 280 files with 64 workers...
+[id01066] Completed 1/280
+[id01066] Completed 50/280
+[id01066] Completed 100/280
+[id01066] Completed 150/280
+[id01066] Completed 200/280
+[id01066] Completed 250/280
+DONE processing speaker id01066.
+Processing speaker 56/118: id00812
+[id00812] Processing 407 files with 64 workers...
+[id00812] Completed 1/407
+[id00812] Completed 50/407
+[id00812] Completed 100/407
+[id00812] Completed 150/407
+[id00812] Completed 200/407
+[id00812] Completed 250/407
+[id00812] Completed 300/407
+[id00812] Completed 350/407
+[id00812] Completed 400/407
+DONE processing speaker id00812.
+Processing speaker 57/118: id04536
+[id04536] Processing 489 files with 64 workers...
+[id04536] Completed 1/489
+[id04536] Completed 50/489
+[id04536] Completed 100/489
+[id04536] Completed 150/489
+[id04536] Completed 200/489
+[id04536] Completed 250/489
+[id04536] Completed 300/489
+[id04536] Completed 350/489
+[id04536] Completed 400/489
+[id04536] Completed 450/489
+DONE processing speaker id04536.
+Processing speaker 58/118: id00817
+[id00817] Processing 453 files with 64 workers...
+[id00817] Completed 1/453
+[id00817] Completed 50/453
+[id00817] Completed 100/453
+[id00817] Completed 150/453
+[id00817] Completed 200/453
+[id00817] Completed 250/453
+[id00817] Completed 300/453
+[id00817] Completed 350/453
+[id00817] Completed 400/453
+[id00817] Completed 450/453
+DONE processing speaker id00817.
+Processing speaker 59/118: id08392
+[id08392] Processing 440 files with 64 workers...
+[id08392] Completed 1/440
+[id08392] Completed 50/440
+[id08392] Completed 100/440
+[id08392] Completed 150/440
+[id08392] Completed 200/440
+[id08392] Completed 250/440
+[id08392] Completed 300/440
+[id08392] Completed 350/440
+[id08392] Completed 400/440
+DONE processing speaker id08392.
+Processing speaker 60/118: id04276
+[id04276] Processing 500 files with 64 workers...
+[id04276] Completed 1/500
+[id04276] Completed 50/500
+[id04276] Completed 100/500
+[id04276] Completed 150/500
+[id04276] Completed 200/500
+[id04276] Completed 250/500
+[id04276] Completed 300/500
+[id04276] Completed 350/500
+[id04276] Completed 400/500
+[id04276] Completed 450/500
+[id04276] Completed 500/500
+DONE processing speaker id04276.
+Processing speaker 61/118: id07396
+[id07396] Processing 188 files with 64 workers...
+[id07396] Completed 1/188
+[id07396] Completed 50/188
+[id07396] Completed 100/188
+[id07396] Completed 150/188
+DONE processing speaker id07396.
+Processing speaker 62/118: id05124
+[id05124] Processing 500 files with 64 workers...
+[id05124] Completed 1/500
+[id05124] Completed 50/500
+[id05124] Completed 100/500
+[id05124] Completed 150/500
+[id05124] Completed 200/500
+[id05124] Completed 250/500
+[id05124] Completed 300/500
+[id05124] Completed 350/500
+[id05124] Completed 400/500
+[id05124] Completed 450/500
+[id05124] Completed 500/500
+DONE processing speaker id05124.
+Processing speaker 63/118: id02745
+[id02745] Processing 126 files with 64 workers...
+[id02745] Completed 1/126
+[id02745] Completed 50/126
+[id02745] Completed 100/126
+DONE processing speaker id02745.
+Processing speaker 64/118: id05850
+[id05850] Processing 65 files with 64 workers...
+[id05850] Completed 1/65
+[id05850] Completed 50/65
+DONE processing speaker id05850.
+Processing speaker 65/118: id08149
+[id08149] Processing 66 files with 64 workers...
+[id08149] Completed 1/66
+[id08149] Completed 50/66
+DONE processing speaker id08149.
+Processing speaker 66/118: id08552
+[id08552] Processing 282 files with 64 workers...
+[id08552] Completed 1/282
+[id08552] Completed 50/282
+[id08552] Completed 100/282
+[id08552] Completed 150/282
+[id08552] Completed 200/282
+[id08552] Completed 250/282
+DONE processing speaker id08552.
+Processing speaker 67/118: id06310
+[id06310] Processing 220 files with 64 workers...
+[id06310] Completed 1/220
+[id06310] Completed 50/220
+[id06310] Completed 100/220
+[id06310] Completed 150/220
+[id06310] Completed 200/220
+DONE processing speaker id06310.
+Processing speaker 68/118: id00866
+[id00866] Processing 272 files with 64 workers...
+[id00866] Completed 1/272
+[id00866] Completed 50/272
+[id00866] Completed 100/272
+[id00866] Completed 150/272
+[id00866] Completed 200/272
+[id00866] Completed 250/272
+DONE processing speaker id00866.
+Processing speaker 69/118: id01989
+[id01989] Processing 175 files with 64 workers...
+[id01989] Completed 1/175
+[id01989] Completed 50/175
+[id01989] Completed 100/175
+[id01989] Completed 150/175
+DONE processing speaker id01989.
+Processing speaker 70/118: id01593
+[id01593] Processing 500 files with 64 workers...
+[id01593] Completed 1/500
+[id01593] Completed 50/500
+[id01593] Completed 100/500
+[id01593] Completed 150/500
+[id01593] Completed 200/500
+[id01593] Completed 250/500
+[id01593] Completed 300/500
+[id01593] Completed 350/500
+[id01593] Completed 400/500
+[id01593] Completed 450/500
+[id01593] Completed 500/500
+DONE processing speaker id01593.
+Processing speaker 71/118: id02317
+[id02317] Processing 500 files with 64 workers...
+[id02317] Completed 1/500
+[id02317] Completed 50/500
+[id02317] Completed 100/500
+[id02317] Completed 150/500
+[id02317] Completed 200/500
+[id02317] Completed 250/500
+[id02317] Completed 300/500
+[id02317] Completed 350/500
+[id02317] Completed 400/500
+[id02317] Completed 450/500
+[id02317] Completed 500/500
+DONE processing speaker id02317.
+Processing speaker 72/118: id01224
+[id01224] Processing 467 files with 64 workers...
+[id01224] Completed 1/467
+[id01224] Completed 50/467
+[id01224] Completed 100/467
+[id01224] Completed 150/467
+[id01224] Completed 200/467
+[id01224] Completed 250/467
+[id01224] Completed 300/467
+[id01224] Completed 350/467
+[id01224] Completed 400/467
+[id01224] Completed 450/467
+DONE processing speaker id01224.
+Processing speaker 73/118: id06816
+[id06816] Processing 288 files with 64 workers...
+[id06816] Completed 1/288
+[id06816] Completed 50/288
+[id06816] Completed 100/288
+[id06816] Completed 150/288
+[id06816] Completed 200/288
+[id06816] Completed 250/288
+DONE processing speaker id06816.
+Processing speaker 74/118: id02181
+[id02181] Processing 149 files with 64 workers...
+[id02181] Completed 1/149
+[id02181] Completed 50/149
+[id02181] Completed 100/149
+DONE processing speaker id02181.
+Processing speaker 75/118: id04030
+[id04030] Processing 66 files with 64 workers...
+[id04030] Completed 1/66
+[id04030] Completed 50/66
+DONE processing speaker id04030.
+Processing speaker 76/118: id02019
+[id02019] Processing 306 files with 64 workers...
+[id02019] Completed 1/306
+[id02019] Completed 50/306
+[id02019] Completed 100/306
+[id02019] Completed 150/306
+[id02019] Completed 200/306
+[id02019] Completed 250/306
+[id02019] Completed 300/306
+DONE processing speaker id02019.
+Processing speaker 77/118: id02725
+[id02725] Processing 37 files with 64 workers...
+[id02725] Completed 1/37
+DONE processing speaker id02725.
+Processing speaker 78/118: id05816
+[id05816] Processing 446 files with 64 workers...
+[id05816] Completed 1/446
+[id05816] Completed 50/446
+[id05816] Completed 100/446
+[id05816] Completed 150/446
+[id05816] Completed 200/446
+[id05816] Completed 250/446
+[id05816] Completed 300/446
+[id05816] Completed 350/446
+[id05816] Completed 400/446
+DONE processing speaker id05816.
+Processing speaker 79/118: id03978
+[id03978] Processing 102 files with 64 workers...
+[id03978] Completed 1/102
+[id03978] Completed 50/102
+[id03978] Completed 100/102
+DONE processing speaker id03978.
+Processing speaker 80/118: id05459
+[id05459] Processing 467 files with 64 workers...
+[id05459] Completed 1/467
+[id05459] Completed 50/467
+[id05459] Completed 100/467
+[id05459] Completed 150/467
+[id05459] Completed 200/467
+[id05459] Completed 250/467
+[id05459] Completed 300/467
+[id05459] Completed 350/467
+[id05459] Completed 400/467
+[id05459] Completed 450/467
+DONE processing speaker id05459.
+Processing speaker 81/118: id02086
+[id02086] Processing 499 files with 64 workers...
+[id02086] Completed 1/499
+[id02086] Completed 50/499
+[id02086] Completed 100/499
+[id02086] Completed 150/499
+[id02086] Completed 200/499
+[id02086] Completed 250/499
+[id02086] Completed 300/499
+[id02086] Completed 350/499
+[id02086] Completed 400/499
+[id02086] Completed 450/499
+DONE processing speaker id02086.
+Processing speaker 82/118: id04119
+[id04119] Processing 83 files with 64 workers...
+[id04119] Completed 1/83
+[id04119] Completed 50/83
+DONE processing speaker id04119.
+Processing speaker 83/118: id03862
+[id03862] Processing 500 files with 64 workers...
+[id03862] Completed 1/500
+[id03862] Completed 50/500
+[id03862] Completed 100/500
+[id03862] Completed 150/500
+[id03862] Completed 200/500
+[id03862] Completed 250/500
+[id03862] Completed 300/500
+[id03862] Completed 350/500
+[id03862] Completed 400/500
+[id03862] Completed 450/500
+[id03862] Completed 500/500
+DONE processing speaker id03862.
+Processing speaker 84/118: id01567
+[id01567] Processing 500 files with 64 workers...
+[id01567] Completed 1/500
+[id01567] Completed 50/500
+[id01567] Completed 100/500
+[id01567] Completed 150/500
+[id01567] Completed 200/500
+[id01567] Completed 250/500
+[id01567] Completed 300/500
+[id01567] Completed 350/500
+[id01567] Completed 400/500
+[id01567] Completed 450/500
+[id01567] Completed 500/500
+DONE processing speaker id01567.
+Processing speaker 85/118: id07961
+[id07961] Processing 422 files with 64 workers...
+[id07961] Completed 1/422
+[id07961] Completed 50/422
+[id07961] Completed 100/422
+[id07961] Completed 150/422
+[id07961] Completed 200/422
+[id07961] Completed 250/422
+[id07961] Completed 300/422
+[id07961] Completed 350/422
+[id07961] Completed 400/422
+DONE processing speaker id07961.
+Processing speaker 86/118: id00562
+[id00562] Processing 248 files with 64 workers...
+[id00562] Completed 1/248
+[id00562] Completed 50/248
+[id00562] Completed 100/248
+[id00562] Completed 150/248
+[id00562] Completed 200/248
+DONE processing speaker id00562.
+Processing speaker 87/118: id03030
+[id03030] Processing 438 files with 64 workers...
+[id03030] Completed 1/438
+[id03030] Completed 50/438
+[id03030] Completed 100/438
+[id03030] Completed 150/438
+[id03030] Completed 200/438
+[id03030] Completed 250/438
+[id03030] Completed 300/438
+[id03030] Completed 350/438
+[id03030] Completed 400/438
+DONE processing speaker id03030.
+Processing speaker 88/118: id07802
+[id07802] Processing 315 files with 64 workers...
+[id07802] Completed 1/315
+[id07802] Completed 50/315
+[id07802] Completed 100/315
+[id07802] Completed 150/315
+[id07802] Completed 200/315
+[id07802] Completed 250/315
+[id07802] Completed 300/315
+DONE processing speaker id07802.
+Processing speaker 89/118: id05055
+[id05055] Processing 478 files with 64 workers...
+[id05055] Completed 1/478
+[id05055] Completed 50/478
+[id05055] Completed 100/478
+[id05055] Completed 150/478
+[id05055] Completed 200/478
+[id05055] Completed 250/478
+[id05055] Completed 300/478
+[id05055] Completed 350/478
+[id05055] Completed 400/478
+[id05055] Completed 450/478
+DONE processing speaker id05055.
+Processing speaker 90/118: id07426
+[id07426] Processing 236 files with 64 workers...
+[id07426] Completed 1/236
+[id07426] Completed 50/236
+[id07426] Completed 100/236
+[id07426] Completed 150/236
+[id07426] Completed 200/236
+DONE processing speaker id07426.
+Processing speaker 91/118: id07621
+[id07621] Processing 500 files with 64 workers...
+[id07621] Completed 1/500
+[id07621] Completed 50/500
+[id07621] Completed 100/500
+[id07621] Completed 150/500
+[id07621] Completed 200/500
+[id07621] Completed 250/500
+[id07621] Completed 300/500
+[id07621] Completed 350/500
+[id07621] Completed 400/500
+[id07621] Completed 450/500
+[id07621] Completed 500/500
+DONE processing speaker id07621.
+Processing speaker 92/118: id02445
+[id02445] Processing 112 files with 64 workers...
+[id02445] Completed 1/112
+[id02445] Completed 50/112
+[id02445] Completed 100/112
+DONE processing speaker id02445.
+Processing speaker 93/118: id08701
+[id08701] Processing 500 files with 64 workers...
+[id08701] Completed 1/500
+[id08701] Completed 50/500
+[id08701] Completed 100/500
+[id08701] Completed 150/500
+[id08701] Completed 200/500
+[id08701] Completed 250/500
+[id08701] Completed 300/500
+[id08701] Completed 350/500
+[id08701] Completed 400/500
+[id08701] Completed 450/500
+[id08701] Completed 500/500
+DONE processing speaker id08701.
+Processing speaker 94/118: id04862
+[id04862] Processing 389 files with 64 workers...
+[id04862] Completed 1/389
+[id04862] Completed 50/389
+[id04862] Completed 100/389
+[id04862] Completed 150/389
+[id04862] Completed 200/389
+[id04862] Completed 250/389
+[id04862] Completed 300/389
+[id04862] Completed 350/389
+DONE processing speaker id04862.
+Processing speaker 95/118: id00926
+[id00926] Processing 163 files with 64 workers...
+[id00926] Completed 1/163
+[id00926] Completed 50/163
+[id00926] Completed 100/163
+[id00926] Completed 150/163
+DONE processing speaker id00926.
+Processing speaker 96/118: id06913
+[id06913] Processing 146 files with 64 workers...
+[id06913] Completed 1/146
+[id06913] Completed 50/146
+[id06913] Completed 100/146
+DONE processing speaker id06913.
+Processing speaker 97/118: id00154
+[id00154] Processing 188 files with 64 workers...
+[id00154] Completed 1/188
+[id00154] Completed 50/188
+[id00154] Completed 100/188
+[id00154] Completed 150/188
+DONE processing speaker id00154.
+Processing speaker 98/118: id02577
+[id02577] Processing 148 files with 64 workers...
+[id02577] Completed 1/148
+[id02577] Completed 50/148
+[id02577] Completed 100/148
+DONE processing speaker id02577.
+Processing speaker 99/118: id01460
+[id01460] Processing 368 files with 64 workers...
+[id01460] Completed 1/368
+[id01460] Completed 50/368
+[id01460] Completed 100/368
+[id01460] Completed 150/368
+[id01460] Completed 200/368
+[id01460] Completed 250/368
+[id01460] Completed 300/368
+[id01460] Completed 350/368
+DONE processing speaker id01460.
+Processing speaker 100/118: id04295
+[id04295] Processing 251 files with 64 workers...
+[id04295] Completed 1/251
+[id04295] Completed 50/251
+[id04295] Completed 100/251
+[id04295] Completed 150/251
+[id04295] Completed 200/251
+[id04295] Completed 250/251
+DONE processing speaker id04295.
+Processing speaker 101/118: id06209
+[id06209] Processing 177 files with 64 workers...
+[id06209] Completed 1/177
+[id06209] Completed 50/177
+[id06209] Completed 100/177
+[id06209] Completed 150/177
+DONE processing speaker id06209.
+Processing speaker 102/118: id01000
+[id01000] Processing 154 files with 64 workers...
+[id01000] Completed 1/154
+[id01000] Completed 50/154
+[id01000] Completed 100/154
+[id01000] Completed 150/154
+DONE processing speaker id01000.
+Processing speaker 103/118: id05999
+[id05999] Processing 277 files with 64 workers...
+[id05999] Completed 1/277
+[id05999] Completed 50/277
+[id05999] Completed 100/277
+[id05999] Completed 150/277
+[id05999] Completed 200/277
+[id05999] Completed 250/277
+DONE processing speaker id05999.
+Processing speaker 104/118: id04006
+[id04006] Processing 261 files with 64 workers...
+[id04006] Completed 1/261
+[id04006] Completed 50/261
+[id04006] Completed 100/261
+[id04006] Completed 150/261
+[id04006] Completed 200/261
+[id04006] Completed 250/261
+DONE processing speaker id04006.
+Processing speaker 105/118: id04478
+[id04478] Processing 393 files with 64 workers...
+[id04478] Completed 1/393
+[id04478] Completed 50/393
+[id04478] Completed 100/393
+[id04478] Completed 150/393
+[id04478] Completed 200/393
+[id04478] Completed 250/393
+[id04478] Completed 300/393
+[id04478] Completed 350/393
+DONE processing speaker id04478.
+Processing speaker 106/118: id04232
+[id04232] Processing 500 files with 64 workers...
+[id04232] Completed 1/500
+[id04232] Completed 50/500
+[id04232] Completed 100/500
+[id04232] Completed 150/500
+[id04232] Completed 200/500
+[id04232] Completed 250/500
+[id04232] Completed 300/500
+[id04232] Completed 350/500
+[id04232] Completed 400/500
+[id04232] Completed 450/500
+[id04232] Completed 500/500
+DONE processing speaker id04232.
+Processing speaker 107/118: id03839
+[id03839] Processing 500 files with 64 workers...
+[id03839] Completed 1/500
+[id03839] Completed 50/500
+[id03839] Completed 100/500
+[id03839] Completed 150/500
+[id03839] Completed 200/500
+[id03839] Completed 250/500
+[id03839] Completed 300/500
+[id03839] Completed 350/500
+[id03839] Completed 400/500
+[id03839] Completed 450/500
+[id03839] Completed 500/500
+DONE processing speaker id03839.
+Processing speaker 108/118: id03981
+[id03981] Processing 21 files with 64 workers...
+[id03981] Completed 1/21
+DONE processing speaker id03981.
+Processing speaker 109/118: id03178
+[id03178] Processing 336 files with 64 workers...
+[id03178] Completed 1/336
+[id03178] Completed 50/336
+[id03178] Completed 100/336
+[id03178] Completed 150/336
+[id03178] Completed 200/336
+[id03178] Completed 250/336
+[id03178] Completed 300/336
+DONE processing speaker id03178.
+Processing speaker 110/118: id07868
+[id07868] Processing 438 files with 64 workers...
+[id07868] Completed 1/438
+[id07868] Completed 50/438
+[id07868] Completed 100/438
+[id07868] Completed 150/438
+[id07868] Completed 200/438
+[id07868] Completed 250/438
+[id07868] Completed 300/438
+[id07868] Completed 350/438
+[id07868] Completed 400/438
+DONE processing speaker id07868.
+Processing speaker 111/118: id01106
+[id01106] Processing 362 files with 64 workers...
+[id01106] Completed 1/362
+[id01106] Completed 50/362
+[id01106] Completed 100/362
+[id01106] Completed 150/362
+[id01106] Completed 200/362
+[id01106] Completed 250/362
+[id01106] Completed 300/362
+[id01106] Completed 350/362
+DONE processing speaker id01106.
+Processing speaker 112/118: id03980
+[id03980] Processing 134 files with 64 workers...
+[id03980] Completed 1/134
+[id03980] Completed 50/134
+[id03980] Completed 100/134
+DONE processing speaker id03980.
+Processing speaker 113/118: id05594
+[id05594] Processing 200 files with 64 workers...
+[id05594] Completed 1/200
+[id05594] Completed 50/200
+[id05594] Completed 100/200
+[id05594] Completed 150/200
+[id05594] Completed 200/200
+DONE processing speaker id05594.
+Processing speaker 114/118: id02685
+[id02685] Processing 118 files with 64 workers...
+[id02685] Completed 1/118
+[id02685] Completed 50/118
+[id02685] Completed 100/118
+DONE processing speaker id02685.
+Processing speaker 115/118: id00419
+[id00419] Processing 500 files with 64 workers...
+[id00419] Completed 1/500
+[id00419] Completed 50/500
+[id00419] Completed 100/500
+[id00419] Completed 150/500
+[id00419] Completed 200/500
+[id00419] Completed 250/500
+[id00419] Completed 300/500
+[id00419] Completed 350/500
+[id00419] Completed 400/500
+[id00419] Completed 450/500
+[id00419] Completed 500/500
+DONE processing speaker id00419.
+Processing speaker 116/118: id04656
+[id04656] Processing 500 files with 64 workers...
+[id04656] Completed 1/500
+[id04656] Completed 50/500
+[id04656] Completed 100/500
+[id04656] Completed 150/500
+[id04656] Completed 200/500
+[id04656] Completed 250/500
+[id04656] Completed 300/500
+[id04656] Completed 350/500
+[id04656] Completed 400/500
+[id04656] Completed 450/500
+[id04656] Completed 500/500
+DONE processing speaker id04656.
+Processing speaker 117/118: id09017
+[id09017] Processing 360 files with 64 workers...
+[id09017] Completed 1/360
+[id09017] Completed 50/360
+[id09017] Completed 100/360
+[id09017] Completed 150/360
+[id09017] Completed 200/360
+[id09017] Completed 250/360
+[id09017] Completed 300/360
+[id09017] Completed 350/360
+DONE processing speaker id09017.
+Job finished at Sat Dec  6 23:04:08 CST 2025
