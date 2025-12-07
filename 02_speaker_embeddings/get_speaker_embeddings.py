@@ -118,6 +118,7 @@ else:
 # Main loop
 cache_embeddings = []
 next_index = start_index
+skip_count = 0
 
 for idx in tqdm(range(start_index, total), desc="Processing WAVs"):
     file_path = wav_files[idx]
@@ -134,17 +135,13 @@ for idx in tqdm(range(start_index, total), desc="Processing WAVs"):
     except Exception as e:
         # Will handle these skips later in embeddings join
         print(f"[Error] Failed extracting embedding for {file_path}: {e}")
+        skip_count += 1
+        print(f"[Info] Skipped embeddings: {skip_count}")
         continue
 
     # Force embedding to be (1, 256)
     emb = se.cpu()
-    if emb.ndim == 1:
-        emb = emb.unsqueeze(0)  # (1, 256)
-    elif emb.ndim == 2:
-        emb = emb.mean(dim=0, keepdim=True)  # average segments -> (1, 256)
-    else:
-        emb = emb.reshape(-1, emb.shape[-1]).mean(dim=0, keepdim=True)
-
+    emb = emb.squeeze(-1)
     cache_embeddings.append(emb)
 
     # Build a row
@@ -163,6 +160,8 @@ for idx in tqdm(range(start_index, total), desc="Processing WAVs"):
         all_embeddings = torch.cat([all_embeddings, cache_embeddings], dim=0)
         torch.save(all_embeddings, EMB_PATH)
         cache_embeddings = []
+    
+print(f"[Info] Total skipped embeddings: {skip_count}")
 
 
 # In[ ]:
