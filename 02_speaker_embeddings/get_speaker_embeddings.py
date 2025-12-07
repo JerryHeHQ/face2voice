@@ -145,7 +145,7 @@ with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
     futures = [executor.submit(process_file, idx, fp) for idx, fp in enumerate(wav_files[start_index:], start_index)]
 
     # Process results in order of submission to preserve wav_files order
-    for future in futures:
+    for future in tqdm(futures, desc="Processing WAVs", total=len(futures)):
         idx, emb, row, err = future.result()
         if err:
             skip_count += 1
