@@ -32,9 +32,9 @@ from IPython.display import display
 
 
 # Paths
-ROOT = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Extracted/vox2_mp4_1"))
-CSV_PATH = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_1/jpg_metadata_test.csv"))
-EMB_PATH = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_1/jpg_embeddings_test.pt"))
+ROOT = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Extracted/vox2_mp4_test"))
+CSV_PATH = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_test/jpg_metadata_test.csv"))
+EMB_PATH = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_test/jpg_embeddings_test.pt"))
 SAVE_CHUNK = 512
 BATCH_SIZE = 512
 

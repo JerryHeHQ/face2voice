@@ -1,0 +1,46 @@
+Job started at Sat Dec  6 23:05:03 CST 2025
+Running on node v330-014.ls6.tacc.utexas.edu
+Job ID: 2792691
+CUDA_VISIBLE_DEVICES=
+Sat Dec  6 23:05:07 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 570.195.03             Driver Version: 570.195.03     CUDA Version: 12.8     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100-PCIE-40GB          On  |   00000000:06:00.0 Off |                    0 |
+| N/A   26C    P0             35W /  250W |       0MiB /  40960MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+Starting Python script...
+Using device: cuda
+Found 36237 jpg files.
+Processing JPGs:   0%|          | 0/71 [00:00<?, ?it/s]/work/11077/jerryhe/ls6/conda/miniconda3/envs/get-image-embeddings/lib/python3.10/site-packages/torch/nn/modules/conv.py:456: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv2d(input, weight, bias, self.stride,
+Processing JPGs:   1%|▏         | 1/71 [00:22<26:03, 22.34s/it]Processing JPGs:   3%|▎         | 2/71 [00:24<11:42, 10.18s/it]Processing JPGs:   4%|▍         | 3/71 [00:26<07:32,  6.65s/it]Processing JPGs:   6%|▌         | 4/71 [00:28<05:29,  4.91s/it]Processing JPGs:   7%|▋         | 5/71 [00:30<04:09,  3.78s/it]Processing JPGs:   8%|▊         | 6/71 [00:32<03:35,  3.32s/it]Processing JPGs:  10%|▉         | 7/71 [00:35<03:23,  3.17s/it]Processing JPGs:  11%|█▏        | 8/71 [00:37<02:56,  2.81s/it]Processing JPGs:  13%|█▎        | 9/71 [00:39<02:32,  2.46s/it]Processing JPGs:  14%|█▍        | 10/71 [00:41<02:23,  2.35s/it]Processing JPGs:  15%|█▌        | 11/71 [00:45<02:43,  2.72s/it]Processing JPGs:  17%|█▋        | 12/71 [00:47<02:35,  2.63s/it]Processing JPGs:  18%|█▊        | 13/71 [00:51<02:46,  2.87s/it]Processing JPGs:  20%|█▉        | 14/71 [00:54<02:51,  3.01s/it]Processing JPGs:  21%|██        | 15/71 [00:57<02:44,  2.93s/it]Processing JPGs:  23%|██▎       | 16/71 [00:59<02:38,  2.88s/it]Processing JPGs:  24%|██▍       | 17/71 [01:03<02:41,  3.00s/it]Processing JPGs:  25%|██▌       | 18/71 [01:05<02:36,  2.95s/it]Processing JPGs:  27%|██▋       | 19/71 [01:08<02:19,  2.69s/it]Processing JPGs:  28%|██▊       | 20/71 [01:10<02:09,  2.54s/it]Processing JPGs:  30%|██▉       | 21/71 [01:11<01:52,  2.26s/it]Processing JPGs:  31%|███       | 22/71 [01:14<02:02,  2.49s/it]Processing JPGs:  32%|███▏      | 23/71 [01:17<01:57,  2.45s/it]Processing JPGs:  34%|███▍      | 24/71 [01:19<01:46,  2.27s/it]Processing JPGs:  35%|███▌      | 25/71 [01:20<01:35,  2.08s/it]Processing JPGs:  37%|███▋      | 26/71 [01:22<01:29,  2.00s/it]Processing JPGs:  38%|███▊      | 27/71 [01:24<01:28,  2.01s/it]Processing JPGs:  39%|███▉      | 28/71 [01:26<01:22,  1.92s/it]Processing JPGs:  41%|████      | 29/71 [01:27<01:16,  1.83s/it]Processing JPGs:  42%|████▏     | 30/71 [01:29<01:15,  1.84s/it]Processing JPGs:  44%|████▎     | 31/71 [01:31<01:13,  1.84s/it]Processing JPGs:  45%|████▌     | 32/71 [01:33<01:09,  1.79s/it]Processing JPGs:  46%|████▋     | 33/71 [01:35<01:09,  1.82s/it]Processing JPGs:  48%|████▊     | 34/71 [01:36<01:07,  1.81s/it]Processing JPGs:  49%|████▉     | 35/71 [01:38<01:05,  1.82s/it]Processing JPGs:  51%|█████     | 36/71 [01:40<01:01,  1.77s/it]Processing JPGs:  52%|█████▏    | 37/71 [01:42<01:00,  1.77s/it]Processing JPGs:  54%|█████▎    | 38/71 [01:43<00:57,  1.73s/it]Processing JPGs:  55%|█████▍    | 39/71 [01:45<00:57,  1.79s/it]Processing JPGs:  56%|█████▋    | 40/71 [01:47<00:55,  1.77s/it]Processing JPGs:  58%|█████▊    | 41/71 [01:49<00:52,  1.76s/it]Processing JPGs:  59%|█████▉    | 42/71 [01:51<00:53,  1.84s/it]Processing JPGs:  61%|██████    | 43/71 [01:53<00:51,  1.84s/it]Processing JPGs:  62%|██████▏   | 44/71 [01:55<00:51,  1.92s/it]Processing JPGs:  63%|██████▎   | 45/71 [01:56<00:47,  1.83s/it]Processing JPGs:  65%|██████▍   | 46/71 [01:58<00:47,  1.90s/it]Processing JPGs:  66%|██████▌   | 47/71 [02:00<00:44,  1.86s/it]Processing JPGs:  68%|██████▊   | 48/71 [02:03<00:47,  2.07s/it]Processing JPGs:  69%|██████▉   | 49/71 [02:05<00:44,  2.03s/it]Processing JPGs:  70%|███████   | 50/71 [02:07<00:44,  2.10s/it]Processing JPGs:  72%|███████▏  | 51/71 [02:09<00:40,  2.00s/it]Processing JPGs:  73%|███████▎  | 52/71 [02:11<00:37,  1.98s/it]Processing JPGs:  75%|███████▍  | 53/71 [02:13<00:35,  2.00s/it]Processing JPGs:  76%|███████▌  | 54/71 [02:15<00:35,  2.11s/it]Processing JPGs:  77%|███████▋  | 55/71 [02:17<00:32,  2.04s/it]Processing JPGs:  79%|███████▉  | 56/71 [02:19<00:30,  2.06s/it]Processing JPGs:  80%|████████  | 57/71 [02:21<00:27,  1.97s/it]Processing JPGs:  82%|████████▏ | 58/71 [02:23<00:25,  1.93s/it]Processing JPGs:  83%|████████▎ | 59/71 [02:24<00:22,  1.87s/it]Processing JPGs:  85%|████████▍ | 60/71 [02:26<00:20,  1.89s/it]Processing JPGs:  86%|████████▌ | 61/71 [02:28<00:18,  1.86s/it]Processing JPGs:  87%|████████▋ | 62/71 [02:30<00:16,  1.88s/it]Processing JPGs:  89%|████████▊ | 63/71 [02:32<00:14,  1.84s/it]Processing JPGs:  90%|█████████ | 64/71 [02:34<00:12,  1.85s/it]Processing JPGs:  92%|█████████▏| 65/71 [02:36<00:11,  1.89s/it]Processing JPGs:  93%|█████████▎| 66/71 [02:38<00:09,  1.91s/it]Processing JPGs:  94%|█████████▍| 67/71 [02:39<00:07,  1.91s/it]Processing JPGs:  96%|█████████▌| 68/71 [02:41<00:05,  1.91s/it]Processing JPGs:  97%|█████████▋| 69/71 [02:43<00:03,  1.89s/it]Processing JPGs:  99%|█████████▊| 70/71 [02:45<00:01,  1.99s/it]Processing JPGs: 100%|██████████| 71/71 [02:47<00:00,  1.91s/it]Processing JPGs: 100%|██████████| 71/71 [02:47<00:00,  2.36s/it]
+36237
+torch.Size([36237, 512])
+Has zeros: tensor(False)
+tensor([-0.0076, -0.0081, -0.0170, -0.0521,  0.0269,  0.0014])
+index                                                      67
+id                                                    id00017
+hash                                              U7PMtQkYWo8
+img_num                                                    68
+filepath    /scratch/11077/jerryhe/VoxCeleb2/Extracted/vox...
+Name: 67, dtype: object
+Norm: 0.9999999403953552
+Min value: -0.1304427981376648
+Max value: 0.13040930032730103
+Embedding vector: tensor([ 0.0262, -0.0044,  0.0169,  0.0050,  0.0389,  0.0114])
+<PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=224x224 at 0x146E58B80C40>
+Job finished at Sat Dec  6 23:08:58 CST 2025
