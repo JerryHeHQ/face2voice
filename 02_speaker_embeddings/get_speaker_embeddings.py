@@ -120,20 +120,9 @@ else:
 def process_file(idx, file_path):
     """Process a single WAV file: extract embedding and build CSV row."""
     try:
-        # Redirect stdout and stderr
-        with open(os.devnull, "w") as fnull:
-            old_stdout = sys.stdout
-            old_stderr = sys.stderr
-            sys.stdout = fnull
-            sys.stderr = fnull
-            try:
-                with torch.no_grad():
-                    se, _ = se_extractor.get_se(str(file_path), tone_color_converter, vad=True)
-                    emb = se.squeeze(-1)
-            finally:
-                # Restore stdout/stderr
-                sys.stdout = old_stdout
-                sys.stderr = old_stderr
+        with torch.no_grad():
+            se, _ = se_extractor.get_se(str(file_path), tone_color_converter, vad=True)
+            emb = se.squeeze(-1)
         parts = file_path.parts
         row = [idx, parts[-3], parts[-2], int(file_path.stem), str(file_path)]
         return idx, emb, row, None
