@@ -122,17 +122,6 @@ next_index = start_index
 for idx in tqdm(range(start_index, total), desc="Processing WAVs"):
     file_path = wav_files[idx]
 
-    # Check audio duration (will handle skips later in embeddings join)
-    try:
-        info = torchaudio.info(str(file_path))
-        duration_sec = info.num_frames / info.sample_rate
-        if duration_sec < 1.0:
-            print(f"[Skip] Audio too short (<1s): {file_path}")
-            continue
-    except Exception as e:
-        print(f"[Error] Failed reading audio info for {file_path}: {e}")
-        continue
-
     # Compute embeddings
     try:
         with torch.no_grad():
@@ -143,10 +132,19 @@ for idx in tqdm(range(start_index, total), desc="Processing WAVs"):
             )
             se = se.float()
     except Exception as e:
+        # Will handle these skips later in embeddings join
         print(f"[Error] Failed extracting embedding for {file_path}: {e}")
         continue
 
-    emb = se.cpu().unsqueeze(0)
+    # Force embedding to be (1, 256)
+    emb = se.cpu()
+    if emb.ndim == 1:
+        emb = emb.unsqueeze(0)  # (1, 256)
+    elif emb.ndim == 2:
+        emb = emb.mean(dim=0, keepdim=True)  # average segments -> (1, 256)
+    else:
+        emb = emb.reshape(-1, emb.shape[-1]).mean(dim=0, keepdim=True)
+
     cache_embeddings.append(emb)
 
     # Build a row
