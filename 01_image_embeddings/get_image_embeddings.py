@@ -3,8 +3,8 @@
 
 # ```
 # conda init
-# conda create -n get-face-embeddings python=3.10 -c conda -y
-# conda activate get-face-embeddings
+# conda create -n get-image-embeddings python=3.10 -c conda -y
+# conda activate get-image-embeddings
 # pip install torch==2.2.1+cu118 torchvision==0.17.1+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
 # pip install facenet-pytorch==2.6.0
 # pip install pandas
