@@ -29,6 +29,7 @@ from openvoice import se_extractor
 from openvoice.api import ToneColorConverter
 from tqdm import tqdm
 import pandas as pd
+from concurrent.futures import ThreadPoolExecutor
 
 
 # In[ ]:
@@ -115,63 +116,75 @@ else:
 # In[ ]:
 
 
-# Main loop
-cache_embeddings = []
-next_index = start_index
-skip_count = 0
-
-for idx in tqdm(range(start_index, total), desc="Processing WAVs"):
-    file_path = wav_files[idx]
-
-    # Compute embeddings
+# Helper function
+def process_file(idx, file_path):
+    """Process a single WAV file: extract embedding and build CSV row."""
     try:
         with torch.no_grad():
-            se, _ = se_extractor.get_se(
-                str(file_path),
-                tone_color_converter,
-                vad=True
-            )
-            se = se.float()
+            se, _ = se_extractor.get_se(str(file_path), tone_color_converter, vad=True)
+            emb = se.squeeze(-1)
+        parts = file_path.parts
+        row = [idx, parts[-3], parts[-2], int(file_path.stem), str(file_path)]
+        return idx, emb, row, None
     except Exception as e:
-        # Will handle these skips later in embeddings join
-        print(f"[Error] Failed extracting embedding for {file_path}: {e}")
-        skip_count += 1
-        print(f"[Info] Skipped embeddings: {skip_count}")
-        continue
-
-    # Force embedding to be (1, 256)
-    emb = se.cpu()
-    emb = emb.squeeze(-1)
-    cache_embeddings.append(emb)
-
-    # Build a row
-    parts = file_path.parts
-    row = [next_index, parts[-3], parts[-2], int(Path(parts[-1]).stem), str(file_path)]
-    next_index += 1
-
-    # Write a row
-    with open(CSV_PATH, "a", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow(row)
-
-    # Periodically save embeddings
-    if len(cache_embeddings) >= SAVE_CHUNK:
-        cache_embeddings = torch.cat(cache_embeddings, dim=0)
-        all_embeddings = torch.cat([all_embeddings, cache_embeddings], dim=0)
-        torch.save(all_embeddings, EMB_PATH)
-        cache_embeddings = []
-    
-print(f"[Info] Total skipped embeddings: {skip_count}")
+        return idx, None, None, e
 
 
 # In[ ]:
 
 
-# Save remaining embeddings
+# Main loop
+cache_embeddings = []
+cache_rows = []
+next_index = start_index
+skip_count = 0
+
+MAX_THREADS = 16
+with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
+    # Submit all files
+    futures = [executor.submit(process_file, idx, fp) for idx, fp in enumerate(wav_files[start_index:], start_index)]
+
+    # Process results in order of submission to preserve wav_files order
+    for future in futures:
+        idx, emb, row, err = future.result()
+        if err:
+            skip_count += 1
+            print(f"[Error] Skipped {idx}: {err}")
+            continue
+
+        cache_embeddings.append(emb)
+        cache_rows.append(row)
+        next_index += 1
+
+        # Save in batches
+        if len(cache_embeddings) >= SAVE_CHUNK:
+            # Concatenate embeddings and move to CPU
+            chunk_tensor = torch.cat(cache_embeddings, dim=0).cpu()
+            all_embeddings = torch.cat([all_embeddings, chunk_tensor], dim=0)
+            torch.save(all_embeddings, EMB_PATH)
+            cache_embeddings = []
+
+            # Write CSV rows in batch
+            with open(CSV_PATH, "a", newline="") as f:
+                writer = csv.writer(f)
+                writer.writerows(cache_rows)
+            cache_rows = []
+
+
+# In[ ]:
+
+
+# Save remaining embeddings & CSV rows
 if len(cache_embeddings) > 0:
-    cache_embeddings = torch.cat(cache_embeddings, dim=0)
-    all_embeddings = torch.cat([all_embeddings, cache_embeddings], dim=0)
+    chunk_tensor = torch.cat(cache_embeddings, dim=0).cpu()
+    all_embeddings = torch.cat([all_embeddings, chunk_tensor], dim=0)
     torch.save(all_embeddings, EMB_PATH)
+
+    with open(CSV_PATH, "a", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerows(cache_rows)
+
+print(f"[Info] Total skipped embeddings: {skip_count}")
 
 
 # In[ ]:
