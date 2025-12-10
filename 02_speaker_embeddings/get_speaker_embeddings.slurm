@@ -2,12 +2,12 @@
 #SBATCH --job-name=get_speaker_embeddings_test
 #SBATCH --output=get_speaker_embeddings_test.%j.log
 #SBATCH --error=get_speaker_embeddings_test.%j.log
-#SBATCH --partition=gpu-a100-dev
+#SBATCH --partition=gpu-a100-small
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=16
-#SBATCH --mem=64G
-#SBATCH --time=02:00:00
+#SBATCH --mem=12G
+#SBATCH --time=12:00:00
 
 echo "Job started at $(date)"
 echo "Running on node $(hostname)"

@@ -36,9 +36,9 @@ import pandas as pd
 
 # Paths & Configuration
 OPENVOICE_DIR = Path(os.path.expandvars("$SCRATCH/face2voice/OpenVoice"))
-ROOT = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Extracted/vox2_mp4_1"))
-CSV_PATH = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_1/wav_metadata_1.csv"))
-EMB_PATH = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_1/wav_embeddings_1.pt"))
+ROOT = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Extracted/vox2_mp4_test"))
+CSV_PATH = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_test/wav_metadata_test.csv"))
+EMB_PATH = Path(os.path.expandvars("$SCRATCH/VoxCeleb2/Embeddings/vox2_mp4_test/wav_embeddings_test.pt"))
 SAVE_CHUNK = 1024
 
 
