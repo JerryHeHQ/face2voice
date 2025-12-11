@@ -83,7 +83,7 @@ nltk.download('averaged_perceptron_tagger_eng')
 ```
 
 ### 6. Example
-For a simplier example, see:
+For a simpler example, see:
 ```bash
 jupyter notebook openvoice_example.ipynb
 ```
