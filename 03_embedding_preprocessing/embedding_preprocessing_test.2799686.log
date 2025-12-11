@@ -1,0 +1,20 @@
+Job started at Wed Dec 10 17:05:21 CST 2025
+Running on node c310-005.ls6.tacc.utexas.edu
+Job ID: 2799686
+Starting Python script...
+Processing shards:   0%|          | 0/1 [00:00<?, ?it/s]Processing shards: 100%|██████████| 1/1 [00:04<00:00,  4.39s/it]Processing shards: 100%|██████████| 1/1 [00:04<00:00,  4.40s/it]
+==== TOTAL REMOVED ROWS ====
+Zero image rows: 0
+Zero audio rows: 10591
+Rows removed due to zeros/unpaired: 10591
+
+Running sanity checks...
+
+Final row counts match
+No zero vectors remain
+Random spot checks match original embeddings
+No duplicates detected
+
+All sanity checks passed! Dataset is consistent and aligned.
+
+Job finished at Wed Dec 10 17:07:28 CST 2025

@@ -1,0 +1,20 @@
+Job started at Wed Dec 10 03:08:34 CST 2025
+Running on node c303-006.ls6.tacc.utexas.edu
+Job ID: 2798070
+Starting Python script...
+Processing shards:   0%|          | 0/6 [00:00<?, ?it/s]Processing shards:  17%|█▋        | 1/6 [00:03<00:16,  3.28s/it]Processing shards:  33%|███▎      | 2/6 [00:06<00:12,  3.11s/it]Processing shards:  50%|█████     | 3/6 [00:10<00:10,  3.43s/it]Processing shards:  67%|██████▋   | 4/6 [00:12<00:06,  3.14s/it]Processing shards:  83%|████████▎ | 5/6 [00:15<00:03,  3.12s/it]Processing shards: 100%|██████████| 6/6 [00:17<00:00,  2.59s/it]Processing shards: 100%|██████████| 6/6 [00:17<00:00,  2.91s/it]
+==== TOTAL REMOVED ROWS ====
+Zero image rows: 0
+Zero audio rows: 328400
+Rows removed due to zeros/unpaired: 328400
+
+Running sanity checks...
+
+Final row counts match
+No zero vectors remain
+Random spot checks match original embeddings
+No duplicates detected
+
+All sanity checks passed! Dataset is consistent and aligned.
+
+Job finished at Wed Dec 10 03:10:21 CST 2025
