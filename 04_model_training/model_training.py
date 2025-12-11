@@ -61,9 +61,9 @@ BATCH_SIZE = 256
 MAX_EPOCHS = 200
 PATIENCE = 5
 
-LR = 5e-5
+LR = 5e-4
 WEIGHT_DECAY = 1e-4
-MARGIN = 0.5
+MARGIN = 0.1
 
 # ----------------------------------------------------
 # SEED EVERYTHING
@@ -165,15 +165,21 @@ class MLP(nn.Module):
 # ----------------------------------------------------
 # CONTRASTIVE LOSS
 # ----------------------------------------------------
+# def contrastive_loss(pred, target, label, margin):
+#     cos = nn.functional.cosine_similarity(pred, target)
+#     pos_loss = label * (1 - cos)
+#     neg_loss = (1 - label) * torch.clamp(cos - margin, min=0)
+#     return (pos_loss + neg_loss).mean()
 def contrastive_loss(pred, target, label, margin):
-    cos = nn.functional.cosine_similarity(pred, target)
-    pos_loss = label * (1 - cos)
-    neg_loss = (1 - label) * torch.clamp(cos - margin, min=0)
+    mse = nn.functional.mse_loss(pred, target, reduction="none").mean(dim=1)
+    pos_loss = label * mse
+    neg_loss = (1 - label) * torch.clamp(margin - mse, min=0)
     return (pos_loss + neg_loss).mean()
 
 # ----------------------------------------------------
 # K-FOLD CROSS VALIDATION
 # ----------------------------------------------------
+mse_loss = nn.MSELoss()
 unique_ids = metadata["id"].unique()
 kf = KFold(n_splits=5, shuffle=True, random_state=42)
 epochs_needed = []
@@ -228,7 +234,8 @@ for fold, (train_idx, val_idx) in enumerate(kf.split(unique_ids)):
                 x, y = batch
                 x, y = x.to(DEVICE), y.to(DEVICE)
                 pred = model(x)
-                loss = (1 - cosine(pred, y)).mean()
+                # loss = (1 - cosine(pred, y)).mean()
+                loss = mse_loss(pred, y)
                 batch_size = x.size(0)
 
             loss.backward()
@@ -242,7 +249,8 @@ for fold, (train_idx, val_idx) in enumerate(kf.split(unique_ids)):
             for x, y in val_loader:
                 x, y = x.to(DEVICE), y.to(DEVICE)
                 pred = model(x)
-                loss = (1 - cosine(pred, y)).mean()
+                # loss = (1 - cosine(pred, y)).mean()
+                loss = mse_loss(pred, y)
                 val_loss_sum += loss.item() * x.size(0)
 
         val_loss = val_loss_sum / len(val_loader.dataset)
@@ -301,7 +309,8 @@ for epoch in range(1, avg_epochs + 1):
             x, y = batch
             x, y = x.to(DEVICE), y.to(DEVICE)
             pred = model_full(x)
-            loss = (1 - cosine(pred, y)).mean()
+            # loss = (1 - cosine(pred, y)).mean()
+            loss = mse_loss(pred, y)
             batch_size = x.size(0)
 
         loss.backward()
@@ -345,8 +354,9 @@ with torch.no_grad():
     for x, y in tqdm(test_loader, desc="Testing"):
         x, y = x.to(DEVICE), y.to(DEVICE)
         pred = model_ts(x)
-        loss = (1 - cos(pred, y)).mean()
+        # loss = (1 - cos(pred, y)).mean()
+        loss = mse_loss(pred, y)
         test_loss += loss.item() * x.size(0)
 
 test_loss /= len(test_loader.dataset)
-print(f"Test set cosine loss: {test_loss:.6f}")
+print(f"Test set MSE loss: {test_loss:.6f}")
